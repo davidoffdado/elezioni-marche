@@ -10,7 +10,16 @@
 
 <hr/>
 
-<h2>Contenuto della repository</h2>
+<h2>Risultati</h2>
+Partiamo dalla fine. Qua potete trovare la versione interattiva delle mappe create con i dati ottenuti e presenti nella repository:
+<ul>
+<li> <a href="https://public.flourish.studio/visualisation/25370291/"> Risultati finali </a> </li>
+<li> <a href="https://public.flourish.studio/visualisation/25374444/"> Affluenza finale </a> </li>
+</ul>
+
+<hr/>
+
+<h2>Contenuto della repository</h2> 
 
 <ul>
   <li><strong>scraper-province.py</strong><br/>
@@ -200,8 +209,3 @@ python scraper-comuni.py
 #    - elezioni-marche-affluenza.xlsx per affluenza (se necessario)
 </code></pre>
 
-<h2>Versione interattiva dei risultati:</h2>
-<ul>
-<li> <a href="https://public.flourish.studio/visualisation/25370291/"> Risultati finali </a> </li>
-<li> <a href="https://public.flourish.studio/visualisation/25374444/"> Affluenza finale </a> </li>
-</ul>
