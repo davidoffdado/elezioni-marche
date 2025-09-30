@@ -200,7 +200,7 @@ python scraper-comuni.py
 #    - elezioni-marche-affluenza.xlsx per affluenza (se necessario)
 </code></pre>
 
-I link alla versione interattiva delle immagini presente nella repo sono i seguenti:
+<h2>Versione interattiva dei risultati:</h2>
 <ul>
 <li> <a href="https://public.flourish.studio/visualisation/25370291/"> Risultati finali </a> </li>
 <li> <a href="https://public.flourish.studio/visualisation/25374444/"> Affluenza finale </a> </li>
