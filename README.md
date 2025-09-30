@@ -1,6 +1,6 @@
 <!-- README.md (HTML-flavored) -->
 
-<h1 align="center">Elezioni Regionali Marche 2025</h1>
+<h1 align="center">Elezioni regionali nelle Marche del 2025</h1>
 
 <p align="center" style="margin:0 0 16px">
   Strumenti per scaricare, elaborare e visualizzare i risultati elettorali a livello
