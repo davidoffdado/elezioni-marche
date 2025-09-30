@@ -184,14 +184,6 @@ Nota: i numeri riportati sopra sono a solo scopo illustrativo. Fare riferimento 
 
 <hr/>
 
-<h2>Licenze e attribuzioni</h2>
-
-<p>
-I dati originali provengono dal portale della Regione Marche e sono indicati come open data sul sito sorgente. Verificare eventuali termini di licenza e attribuzione richiesti dal titolare dei dati prima del riuso pubblico.
-</p>
-
-<hr/>
-
 <h2>Esecuzione rapida</h2>
 
 <pre><code># 1) Genera il mapping comuni
@@ -208,12 +200,8 @@ python scraper-comuni.py
 #    - elezioni-marche-affluenza.xlsx per affluenza (se necessario)
 </code></pre>
 
-
-Nel repository sono incluse alcune immagini di output ottenute con Flourish:
-
-<img width="1135" height="1292" alt="risultati-finali" src="https://github.com/user-attachments/assets/65e0ae7d-6da2-4079-a76b-008429ff8401" />
-<img width="794" height="955" alt="comuni-all" src="https://github.com/user-attachments/assets/224a9b60-aa59-40c5-b38a-55646884fa99" />
-
-I link alla versione interattiva sono i seguenti:
-https://public.flourish.studio/visualisation/25370291/
-https://public.flourish.studio/visualisation/25374444/
+I link alla versione interattiva delle immagini presente nella repo sono i seguenti:
+<ul>
+<li> <a href="https://public.flourish.studio/visualisation/25370291/"> Risultati finali </a> </li>
+<li> <a href="https://public.flourish.studio/visualisation/25374444/"> Affluenza finale </a> </li>
+</ul>
