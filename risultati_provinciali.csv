@@ -1,29 +1,29 @@
 circoscrizione_id,circoscrizione_nome,candidato,voti,voti_nona,voti_solosindpres,percentuale,sezioni_totali,timestamp
-1,Ancona,Claudio Bolletta,0,0,0,0,468,29/09/2025 - 10:02:24
-1,Ancona,Beatrice Marinelli,0,0,0,0,468,29/09/2025 - 10:02:24
-1,Ancona,Lidia Mangani,0,0,0,0,468,29/09/2025 - 10:02:24
-1,Ancona,Francesco Gerardi,0,0,0,0,468,29/09/2025 - 10:02:24
-1,Ancona,Matteo Ricci,0,0,0,0,468,29/09/2025 - 10:02:24
-1,Ancona,Francesco Acquaroli,0,0,0,0,468,29/09/2025 - 10:02:24
-2,Ascoli Piceno,Matteo Ricci,0,0,0,0,213,29/09/2025 - 10:02:24
-2,Ascoli Piceno,Beatrice Marinelli,0,0,0,0,213,29/09/2025 - 10:02:24
-2,Ascoli Piceno,Francesco Gerardi,0,0,0,0,213,29/09/2025 - 10:02:24
-2,Ascoli Piceno,Francesco Acquaroli,0,0,0,0,213,29/09/2025 - 10:02:24
-2,Ascoli Piceno,Claudio Bolletta,0,0,0,0,213,29/09/2025 - 10:02:24
-3,Fermo,Francesco Gerardi,0,0,0,0,168,29/09/2025 - 10:02:24
-3,Fermo,Matteo Ricci,0,0,0,0,168,29/09/2025 - 10:02:24
-3,Fermo,Claudio Bolletta,0,0,0,0,168,29/09/2025 - 10:02:24
-3,Fermo,Francesco Acquaroli,0,0,0,0,168,29/09/2025 - 10:02:24
-3,Fermo,Beatrice Marinelli,0,0,0,0,168,29/09/2025 - 10:02:24
-4,Macerata,Francesco Acquaroli,0,0,0,0,321,29/09/2025 - 10:02:24
-4,Macerata,Beatrice Marinelli,0,0,0,0,321,29/09/2025 - 10:02:24
-4,Macerata,Lidia Mangani,0,0,0,0,321,29/09/2025 - 10:02:24
-4,Macerata,Matteo Ricci,0,0,0,0,321,29/09/2025 - 10:02:24
-4,Macerata,Claudio Bolletta,0,0,0,0,321,29/09/2025 - 10:02:24
-4,Macerata,Francesco Gerardi,0,0,0,0,321,29/09/2025 - 10:02:24
-5,Pesaro e Urbino,Matteo Ricci,0,0,0,0,402,29/09/2025 - 10:02:24
-5,Pesaro e Urbino,Lidia Mangani,0,0,0,0,402,29/09/2025 - 10:02:24
-5,Pesaro e Urbino,Claudio Bolletta,0,0,0,0,402,29/09/2025 - 10:02:24
-5,Pesaro e Urbino,Francesco Acquaroli,0,0,0,0,402,29/09/2025 - 10:02:24
-5,Pesaro e Urbino,Francesco Gerardi,0,0,0,0,402,29/09/2025 - 10:02:24
-5,Pesaro e Urbino,Beatrice Marinelli,0,0,0,0,402,29/09/2025 - 10:02:24
+1,Ancona,Matteo Ricci,98901,0,0,49.85,468,30/09/2025 - 00:46:04
+1,Ancona,Francesco Acquaroli,92344,0,0,46.54,468,30/09/2025 - 00:46:04
+1,Ancona,Lidia Mangani,2241,0,0,1.13,468,30/09/2025 - 00:46:04
+1,Ancona,Beatrice Marinelli,1989,0,0,1.0,468,30/09/2025 - 00:46:04
+1,Ancona,Claudio Bolletta,1536,0,0,0.77,468,30/09/2025 - 00:46:04
+1,Ancona,Francesco Gerardi,1394,0,0,0.7,468,30/09/2025 - 00:46:04
+2,Ascoli Piceno,Francesco Acquaroli,44980,0,0,52.57,213,30/09/2025 - 00:46:04
+2,Ascoli Piceno,Matteo Ricci,39082,0,0,45.67,213,30/09/2025 - 00:46:04
+2,Ascoli Piceno,Claudio Bolletta,597,0,0,0.7,213,30/09/2025 - 00:46:04
+2,Ascoli Piceno,Beatrice Marinelli,506,0,0,0.59,213,30/09/2025 - 00:46:04
+2,Ascoli Piceno,Francesco Gerardi,403,0,0,0.47,213,30/09/2025 - 00:46:04
+3,Fermo,Francesco Acquaroli,44943,0,0,60.51,168,30/09/2025 - 00:46:04
+3,Fermo,Matteo Ricci,27575,0,0,37.13,168,30/09/2025 - 00:46:04
+3,Fermo,Beatrice Marinelli,835,0,0,1.12,168,30/09/2025 - 00:46:04
+3,Fermo,Claudio Bolletta,486,0,0,0.65,168,30/09/2025 - 00:46:04
+3,Fermo,Francesco Gerardi,429,0,0,0.58,168,30/09/2025 - 00:46:04
+4,Macerata,Francesco Acquaroli,77186,0,0,57.86,321,30/09/2025 - 00:46:04
+4,Macerata,Matteo Ricci,51646,0,0,38.72,321,30/09/2025 - 00:46:04
+4,Macerata,Beatrice Marinelli,1624,0,0,1.22,321,30/09/2025 - 00:46:04
+4,Macerata,Claudio Bolletta,1190,0,0,0.89,321,30/09/2025 - 00:46:04
+4,Macerata,Lidia Mangani,1066,0,0,0.8,321,30/09/2025 - 00:46:04
+4,Macerata,Francesco Gerardi,688,0,0,0.52,321,30/09/2025 - 00:46:04
+5,Pesaro e Urbino,Francesco Acquaroli,78226,0,0,51.34,402,30/09/2025 - 00:46:04
+5,Pesaro e Urbino,Matteo Ricci,69005,0,0,45.29,402,30/09/2025 - 00:46:04
+5,Pesaro e Urbino,Lidia Mangani,1732,0,0,1.14,402,30/09/2025 - 00:46:04
+5,Pesaro e Urbino,Beatrice Marinelli,1348,0,0,0.88,402,30/09/2025 - 00:46:04
+5,Pesaro e Urbino,Claudio Bolletta,1042,0,0,0.68,402,30/09/2025 - 00:46:04
+5,Pesaro e Urbino,Francesco Gerardi,1002,0,0,0.66,402,30/09/2025 - 00:46:04
