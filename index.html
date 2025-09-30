@@ -1,14 +1,132 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/elezioni-marche/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>frontend</title>
-    <script type="module" crossorigin src="/elezioni-marche/assets/index-BJ-nPB5k.js"></script>
-    <link rel="stylesheet" crossorigin href="/elezioni-marche/assets/index-BR-f8we5.css">
-  </head>
-  <body>
-    <div id="app"></div>
-  </body>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Elezioni nelle Marche del 2025</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Montserrat', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 80px 20px 40px;
+    }
+    header h1 {
+      font-size: 3.5rem;
+      margin-bottom: 15px;
+    }
+    header p {
+      font-size: 1.3rem;
+      color: #666;
+    }
+    section {
+      max-width: 900px;
+      margin: 60px auto;
+      padding: 0 20px;
+    }
+    .viz {
+      margin: 30px 0;
+      text-align: center;
+    }
+    iframe {
+        width: 100%;
+  	height: 1000px; /* invece di 500 */
+  	border: none;
+    }
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 80px;
+      padding: 40px 20px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #777;
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Elezioni regionali nelle Marche del 2025</h1>
+  <p>I dati relativi all'affluenza e alle preferenze di ogni comune</p>
+</header>
+
+<section>
+  <h2>Affluenza</h2>
+  <div class="viz">
+    <iframe src="https://flo.uri.sh/visualisation/25374444/embed" title="Grafico affluenza"></iframe>
+  </div>
+</section>
+
+<section>
+  <h2>Risultati</h2>
+  <div class="viz">
+    <iframe src="https://flo.uri.sh/visualisation/25370291/embed" title="Grafico risultati"></iframe>
+  </div>
+</section>
+
+<section>
+  <h2>Scarica i dati</h2>
+  <ul>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/comuni_map.csv">comuni_map.csv</a> - comuni e rispettivi ID in formato .csv;</li>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/comuni_map.json">comuni_map.json</a> - comuni e rispettivi ID in formato .json;</li>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/elezioni-marche-affluenza.xlsx">elezioni-marche-affluenza.xlsx</a> - dati sull’affluenza, livello provinciale e comunale;</li>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/flourish_input_all.csv">flourish_input_all.csv</a> – percentuali preferenze, vincitore e scarto a livello comunale;</li>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/risultati_comuni.csv">risultati_comuni.csv</a> - risultati dei candidati per ogni comune;</li>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/risultati_percentuali_tutti_candidati.csv">risultati_percentuali_tutti_candidati.csv</a> - percentuali ottenute dai candidati in ogni comune;</li>
+    <li><a href="https://github.com/davidoffdado/elezioni-marche/blob/main/risultati_provinciali.csv">risultati_provinciali.csv</a> – percentuali ottenute dai candidati in ogni provincia.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Raccolta dei dati in tempo reale</h2>
+  <p>
+    Gli <strong>scraper in Python</strong> raccolgono automaticamente i dati delle elezioni dai siti ufficiali
+    (come quello della Regione Marche). Il processo è il seguente:
+  </p>
+  <ol>
+    <li><strong>Richiesta HTTP</strong> – lo script si collega al sito web e scarica le pagine con i risultati.</li>
+    <li><strong>Parsing del contenuto</strong> – utilizza librerie come <code>BeautifulSoup</code> o <code>pandas</code>
+        per estrarre tabelle, numeri e link.</li>
+    <li><strong>Pulizia e normalizzazione</strong> – i dati grezzi vengono trasformati in formati leggibili
+        (CSV, JSON, Excel), con nomi di colonne coerenti e senza duplicati.</li>
+    <li><strong>Salvataggio</strong> – i file finali vengono salvati nella repository e usati sia per i grafici
+        interattivi su Flourish sia per il download diretto dal sito.</li>
+  </ol>
+  <p>
+    In questo modo, ogni aggiornamento dei dati può essere replicato velocemente lanciando lo scraper, senza dover copiare
+    manualmente le informazioni.
+  </p>
+</section>
+
+
+<footer>
+  Realizzato da David Ruffini · I dati sono raccolti tramite scraper dai siti ufficiali
+</footer>
+
+</body>
 </html>
