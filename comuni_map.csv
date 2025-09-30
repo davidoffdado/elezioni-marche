@@ -1,0 +1,226 @@
+id,nome
+1,Acqualagna
+2,Apecchio
+3,Belforte All'Isauro
+4,Borgo Pace
+5,Cagli
+6,Cantiano
+7,Carpegna
+8,Cartoceto
+9,Fano
+10,Fermignano
+11,Fossombrone
+12,Fratte Rosa
+13,Frontino
+14,Frontone
+15,Gabicce Mare
+16,Gradara
+17,Isola Del Piano
+18,Lunano
+19,Macerata Feltria
+20,Mercatello Sul Metauro
+21,Mercatino Conca
+22,Mombaroccio
+23,Mondavio
+24,Mondolfo
+25,Montecalvo In Foglia
+26,Monte Cerignone
+29,Montefelcino
+30,Monte Grimano Terme
+31,Montelabbate
+32,Monte Porzio
+33,Peglio
+34,Pergola
+35,Pesaro
+36,Petriano
+37,Piandimeleto
+38,Pietrarubbia
+39,Piobbico
+40,San Costanzo
+41,San Lorenzo In Campo
+42,Sant'Angelo In Vado
+43,Sant'Ippolito
+45,Serra Sant'Abbondio
+46,Tavoleto
+47,Tavullia
+48,Urbania
+49,Urbino
+50,Vallefoglia
+51,Colli Al Metauro
+52,Terre Roveresche
+53,Sassocorvaro Auditore
+54,Agugliano
+55,Ancona
+56,Arcevia
+57,Barbara
+58,Belvedere Ostrense
+59,Camerano
+60,Camerata Picena
+61,Castelbellino
+62,Castelfidardo
+63,Castelleone Di Suasa
+64,Castelplanio
+65,Cerreto D'Esi
+66,Chiaravalle
+67,Corinaldo
+68,Cupramontana
+69,Fabriano
+70,Falconara Marittima
+71,Filottrano
+72,Genga
+73,Jesi
+74,Loreto
+75,Maiolati Spontini
+76,Mergo
+77,Monsano
+78,Montecarotto
+79,Montemarciano
+80,Monte Roberto
+81,Monte San Vito
+82,Morro D'Alba
+83,Numana
+84,Offagna
+85,Osimo
+86,Ostra
+87,Ostra Vetere
+88,Poggio San Marcello
+89,Polverigi
+90,Rosora
+91,San Marcello
+92,San Paolo Di Jesi
+93,Santa Maria Nuova
+94,Sassoferrato
+95,Senigallia
+96,Serra De' Conti
+97,Serra San Quirico
+98,Sirolo
+99,Staffolo
+100,Trecastelli
+101,Apiro
+102,Appignano
+103,Belforte Del Chienti
+104,Bolognola
+105,Caldarola
+106,Camerino
+107,Camporotondo Di Fiastrone
+108,Castelraimondo
+109,Castelsantangelo Sul Nera
+110,Cessapalombo
+111,Cingoli
+112,Civitanova Marche
+113,Colmurano
+114,Corridonia
+115,Esanatoglia
+116,Fiastra
+117,Fiuminata
+118,Gagliole
+119,Gualdo
+120,Loro Piceno
+121,Macerata
+122,Matelica
+123,Mogliano
+124,Montecassiano
+125,Monte Cavallo
+126,Montecosaro
+127,Montefano
+128,Montelupone
+129,Monte San Giusto
+130,Monte San Martino
+131,Morrovalle
+132,Muccia
+133,Penna San Giovanni
+134,Petriolo
+135,Pieve Torina
+136,Pioraco
+137,Poggio San Vicino
+138,Pollenza
+139,Porto Recanati
+140,Potenza Picena
+141,Recanati
+142,Ripe San Ginesio
+143,San Ginesio
+144,San Severino Marche
+145,Sant'Angelo In Pontano
+146,Sarnano
+147,Sefro
+148,Serrapetrona
+149,Serravalle Di Chienti
+150,Tolentino
+151,Treia
+152,Urbisaglia
+153,Ussita
+154,Visso
+155,Valfornace
+156,Acquasanta Terme
+157,Acquaviva Picena
+158,Appignano Del Tronto
+159,Arquata Del Tronto
+160,Ascoli Piceno
+161,Carassai
+162,Castel Di Lama
+163,Castignano
+164,Castorano
+165,Colli Del Tronto
+166,Comunanza
+167,Cossignano
+168,Cupra Marittima
+169,Folignano
+170,Force
+171,Grottammare
+172,Maltignano
+173,Massignano
+174,Monsampolo Del Tronto
+175,Montalto Delle Marche
+176,Montedinove
+177,Montefiore Dell'Aso
+178,Montegallo
+179,Montemonaco
+180,Monteprandone
+181,Offida
+182,Palmiano
+183,Ripatransone
+184,Roccafluvione
+185,Rotella
+186,San Benedetto Del Tronto
+187,Spinetoli
+188,Venarotta
+189,Altidona
+190,Amandola
+191,Belmonte Piceno
+192,Campofilone
+193,Falerone
+194,Fermo
+195,Francavilla D'Ete
+196,Grottazzolina
+197,Lapedona
+198,Magliano Di Tenna
+199,Massa Fermana
+200,Monsampietro Morico
+201,Montappone
+202,Montefalcone Appennino
+203,Montefortino
+204,Monte Giberto
+205,Montegiorgio
+206,Montegranaro
+207,Monteleone Di Fermo
+208,Montelparo
+209,Monte Rinaldo
+210,Monterubbiano
+211,Monte San Pietrangeli
+212,Monte Urano
+213,Monte Vidon Combatte
+214,Monte Vidon Corrado
+215,Montottone
+216,Moresco
+217,Ortezzano
+218,Pedaso
+219,Petritoli
+220,Ponzano Di Fermo
+221,Porto San Giorgio
+222,Porto Sant'Elpidio
+223,Rapagnano
+224,Santa Vittoria In Matenano
+225,Sant'Elpidio A Mare
+226,Servigliano
+227,Smerillo
+228,Torre San Patrizio

@@ -1,0 +1,1278 @@
+comune_id,comune_nome,candidato,voti,voti_nona,voti_solosindpres,percentuale,sezioni_totali,timestamp
+1,Acqualagna,Francesco Acquaroli,1152,0,0,60.25,4,30/09/2025 - 00:46:04
+1,Acqualagna,Matteo Ricci,716,0,0,37.45,4,30/09/2025 - 00:46:04
+1,Acqualagna,Beatrice Marinelli,16,0,0,0.84,4,30/09/2025 - 00:46:04
+1,Acqualagna,Lidia Mangani,14,0,0,0.73,4,30/09/2025 - 00:46:04
+1,Acqualagna,Francesco Gerardi,8,0,0,0.42,4,30/09/2025 - 00:46:04
+1,Acqualagna,Claudio Bolletta,6,0,0,0.31,4,30/09/2025 - 00:46:04
+2,Apecchio,Francesco Acquaroli,567,0,0,63.0,3,30/09/2025 - 00:46:04
+2,Apecchio,Matteo Ricci,314,0,0,34.89,3,30/09/2025 - 00:46:04
+2,Apecchio,Lidia Mangani,11,0,0,1.22,3,30/09/2025 - 00:46:04
+2,Apecchio,Beatrice Marinelli,6,0,0,0.67,3,30/09/2025 - 00:46:04
+2,Apecchio,Claudio Bolletta,2,0,0,0.22,3,30/09/2025 - 00:46:04
+2,Apecchio,Francesco Gerardi,0,0,0,0.0,3,30/09/2025 - 00:46:04
+3,Belforte All'Isauro,Francesco Acquaroli,211,0,0,75.63,1,30/09/2025 - 00:46:04
+3,Belforte All'Isauro,Matteo Ricci,60,0,0,21.51,1,30/09/2025 - 00:46:04
+3,Belforte All'Isauro,Lidia Mangani,4,0,0,1.43,1,30/09/2025 - 00:46:04
+3,Belforte All'Isauro,Beatrice Marinelli,2,0,0,0.72,1,30/09/2025 - 00:46:04
+3,Belforte All'Isauro,Claudio Bolletta,1,0,0,0.36,1,30/09/2025 - 00:46:04
+3,Belforte All'Isauro,Francesco Gerardi,1,0,0,0.36,1,30/09/2025 - 00:46:04
+4,Borgo Pace,Francesco Acquaroli,175,0,0,68.36,2,30/09/2025 - 00:46:04
+4,Borgo Pace,Matteo Ricci,78,0,0,30.47,2,30/09/2025 - 00:46:04
+4,Borgo Pace,Claudio Bolletta,1,0,0,0.39,2,30/09/2025 - 00:46:04
+4,Borgo Pace,Francesco Gerardi,1,0,0,0.39,2,30/09/2025 - 00:46:04
+4,Borgo Pace,Beatrice Marinelli,1,0,0,0.39,2,30/09/2025 - 00:46:04
+4,Borgo Pace,Lidia Mangani,0,0,0,0.0,2,30/09/2025 - 00:46:04
+5,Cagli,Francesco Acquaroli,1991,0,0,53.88,12,30/09/2025 - 00:46:04
+5,Cagli,Matteo Ricci,1621,0,0,43.87,12,30/09/2025 - 00:46:04
+5,Cagli,Lidia Mangani,38,0,0,1.03,12,30/09/2025 - 00:46:04
+5,Cagli,Claudio Bolletta,20,0,0,0.54,12,30/09/2025 - 00:46:04
+5,Cagli,Beatrice Marinelli,16,0,0,0.43,12,30/09/2025 - 00:46:04
+5,Cagli,Francesco Gerardi,9,0,0,0.24,12,30/09/2025 - 00:46:04
+6,Cantiano,Matteo Ricci,648,0,0,61.31,4,30/09/2025 - 00:46:04
+6,Cantiano,Francesco Acquaroli,386,0,0,36.52,4,30/09/2025 - 00:46:04
+6,Cantiano,Lidia Mangani,15,0,0,1.42,4,30/09/2025 - 00:46:04
+6,Cantiano,Claudio Bolletta,7,0,0,0.66,4,30/09/2025 - 00:46:04
+6,Cantiano,Beatrice Marinelli,1,0,0,0.09,4,30/09/2025 - 00:46:04
+6,Cantiano,Francesco Gerardi,0,0,0,0.0,4,30/09/2025 - 00:46:04
+7,Carpegna,Francesco Acquaroli,525,0,0,69.26,2,30/09/2025 - 00:46:04
+7,Carpegna,Matteo Ricci,215,0,0,28.36,2,30/09/2025 - 00:46:04
+7,Carpegna,Claudio Bolletta,8,0,0,1.06,2,30/09/2025 - 00:46:04
+7,Carpegna,Lidia Mangani,7,0,0,0.92,2,30/09/2025 - 00:46:04
+7,Carpegna,Beatrice Marinelli,3,0,0,0.4,2,30/09/2025 - 00:46:04
+7,Carpegna,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+8,Cartoceto,Francesco Acquaroli,2123,0,0,63.83,7,30/09/2025 - 00:46:04
+8,Cartoceto,Matteo Ricci,1065,0,0,32.02,7,30/09/2025 - 00:46:04
+8,Cartoceto,Beatrice Marinelli,75,0,0,2.25,7,30/09/2025 - 00:46:04
+8,Cartoceto,Lidia Mangani,22,0,0,0.66,7,30/09/2025 - 00:46:04
+8,Cartoceto,Francesco Gerardi,22,0,0,0.66,7,30/09/2025 - 00:46:04
+8,Cartoceto,Claudio Bolletta,19,0,0,0.57,7,30/09/2025 - 00:46:04
+9,Fano,Francesco Acquaroli,13547,0,0,50.1,68,30/09/2025 - 00:46:04
+9,Fano,Matteo Ricci,12729,0,0,47.07,68,30/09/2025 - 00:46:04
+9,Fano,Lidia Mangani,241,0,0,0.89,68,30/09/2025 - 00:46:04
+9,Fano,Beatrice Marinelli,198,0,0,0.73,68,30/09/2025 - 00:46:04
+9,Fano,Claudio Bolletta,182,0,0,0.67,68,30/09/2025 - 00:46:04
+9,Fano,Francesco Gerardi,143,0,0,0.53,68,30/09/2025 - 00:46:04
+10,Fermignano,Francesco Acquaroli,1822,0,0,50.79,7,30/09/2025 - 00:46:04
+10,Fermignano,Matteo Ricci,1694,0,0,47.23,7,30/09/2025 - 00:46:04
+10,Fermignano,Lidia Mangani,24,0,0,0.67,7,30/09/2025 - 00:46:04
+10,Fermignano,Claudio Bolletta,16,0,0,0.45,7,30/09/2025 - 00:46:04
+10,Fermignano,Francesco Gerardi,16,0,0,0.45,7,30/09/2025 - 00:46:04
+10,Fermignano,Beatrice Marinelli,15,0,0,0.42,7,30/09/2025 - 00:46:04
+11,Fossombrone,Francesco Acquaroli,2307,0,0,55.85,12,30/09/2025 - 00:46:04
+11,Fossombrone,Matteo Ricci,1551,0,0,37.55,12,30/09/2025 - 00:46:04
+11,Fossombrone,Beatrice Marinelli,158,0,0,3.82,12,30/09/2025 - 00:46:04
+11,Fossombrone,Lidia Mangani,42,0,0,1.02,12,30/09/2025 - 00:46:04
+11,Fossombrone,Francesco Gerardi,41,0,0,0.99,12,30/09/2025 - 00:46:04
+11,Fossombrone,Claudio Bolletta,32,0,0,0.77,12,30/09/2025 - 00:46:04
+12,Fratte Rosa,Francesco Acquaroli,219,0,0,53.68,2,30/09/2025 - 00:46:04
+12,Fratte Rosa,Matteo Ricci,176,0,0,43.14,2,30/09/2025 - 00:46:04
+12,Fratte Rosa,Claudio Bolletta,4,0,0,0.98,2,30/09/2025 - 00:46:04
+12,Fratte Rosa,Beatrice Marinelli,4,0,0,0.98,2,30/09/2025 - 00:46:04
+12,Fratte Rosa,Lidia Mangani,3,0,0,0.74,2,30/09/2025 - 00:46:04
+12,Fratte Rosa,Francesco Gerardi,2,0,0,0.49,2,30/09/2025 - 00:46:04
+13,Frontino,Francesco Acquaroli,62,0,0,54.87,1,30/09/2025 - 00:46:04
+13,Frontino,Matteo Ricci,39,0,0,34.51,1,30/09/2025 - 00:46:04
+13,Frontino,Lidia Mangani,6,0,0,5.31,1,30/09/2025 - 00:46:04
+13,Frontino,Claudio Bolletta,5,0,0,4.42,1,30/09/2025 - 00:46:04
+13,Frontino,Beatrice Marinelli,1,0,0,0.88,1,30/09/2025 - 00:46:04
+13,Frontino,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+14,Frontone,Francesco Acquaroli,348,0,0,53.21,2,30/09/2025 - 00:46:04
+14,Frontone,Matteo Ricci,289,0,0,44.19,2,30/09/2025 - 00:46:04
+14,Frontone,Lidia Mangani,9,0,0,1.38,2,30/09/2025 - 00:46:04
+14,Frontone,Beatrice Marinelli,5,0,0,0.76,2,30/09/2025 - 00:46:04
+14,Frontone,Francesco Gerardi,3,0,0,0.46,2,30/09/2025 - 00:46:04
+14,Frontone,Claudio Bolletta,0,0,0,0.0,2,30/09/2025 - 00:46:04
+15,Gabicce Mare,Matteo Ricci,810,0,0,47.54,6,30/09/2025 - 00:46:04
+15,Gabicce Mare,Francesco Acquaroli,803,0,0,47.12,6,30/09/2025 - 00:46:04
+15,Gabicce Mare,Claudio Bolletta,35,0,0,2.05,6,30/09/2025 - 00:46:04
+15,Gabicce Mare,Francesco Gerardi,25,0,0,1.47,6,30/09/2025 - 00:46:04
+15,Gabicce Mare,Lidia Mangani,22,0,0,1.29,6,30/09/2025 - 00:46:04
+15,Gabicce Mare,Beatrice Marinelli,9,0,0,0.53,6,30/09/2025 - 00:46:04
+16,Gradara,Matteo Ricci,796,0,0,52.51,3,30/09/2025 - 00:46:04
+16,Gradara,Francesco Acquaroli,670,0,0,44.2,3,30/09/2025 - 00:46:04
+16,Gradara,Lidia Mangani,18,0,0,1.19,3,30/09/2025 - 00:46:04
+16,Gradara,Francesco Gerardi,16,0,0,1.06,3,30/09/2025 - 00:46:04
+16,Gradara,Claudio Bolletta,14,0,0,0.92,3,30/09/2025 - 00:46:04
+16,Gradara,Beatrice Marinelli,2,0,0,0.13,3,30/09/2025 - 00:46:04
+17,Isola Del Piano,Francesco Acquaroli,129,0,0,50.79,1,30/09/2025 - 00:46:04
+17,Isola Del Piano,Matteo Ricci,119,0,0,46.85,1,30/09/2025 - 00:46:04
+17,Isola Del Piano,Lidia Mangani,3,0,0,1.18,1,30/09/2025 - 00:46:04
+17,Isola Del Piano,Beatrice Marinelli,2,0,0,0.79,1,30/09/2025 - 00:46:04
+17,Isola Del Piano,Claudio Bolletta,1,0,0,0.39,1,30/09/2025 - 00:46:04
+17,Isola Del Piano,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+18,Lunano,Francesco Acquaroli,414,0,0,68.77,1,30/09/2025 - 00:46:04
+18,Lunano,Matteo Ricci,181,0,0,30.07,1,30/09/2025 - 00:46:04
+18,Lunano,Lidia Mangani,3,0,0,0.5,1,30/09/2025 - 00:46:04
+18,Lunano,Francesco Gerardi,2,0,0,0.33,1,30/09/2025 - 00:46:04
+18,Lunano,Beatrice Marinelli,2,0,0,0.33,1,30/09/2025 - 00:46:04
+18,Lunano,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+19,Macerata Feltria,Francesco Acquaroli,578,0,0,63.73,3,30/09/2025 - 00:46:04
+19,Macerata Feltria,Matteo Ricci,310,0,0,34.18,3,30/09/2025 - 00:46:04
+19,Macerata Feltria,Beatrice Marinelli,10,0,0,1.1,3,30/09/2025 - 00:46:04
+19,Macerata Feltria,Lidia Mangani,7,0,0,0.77,3,30/09/2025 - 00:46:04
+19,Macerata Feltria,Claudio Bolletta,2,0,0,0.22,3,30/09/2025 - 00:46:04
+19,Macerata Feltria,Francesco Gerardi,0,0,0,0.0,3,30/09/2025 - 00:46:04
+20,Mercatello Sul Metauro,Francesco Acquaroli,443,0,0,68.79,2,30/09/2025 - 00:46:04
+20,Mercatello Sul Metauro,Matteo Ricci,189,0,0,29.35,2,30/09/2025 - 00:46:04
+20,Mercatello Sul Metauro,Lidia Mangani,5,0,0,0.78,2,30/09/2025 - 00:46:04
+20,Mercatello Sul Metauro,Beatrice Marinelli,4,0,0,0.62,2,30/09/2025 - 00:46:04
+20,Mercatello Sul Metauro,Claudio Bolletta,3,0,0,0.47,2,30/09/2025 - 00:46:04
+20,Mercatello Sul Metauro,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+21,Mercatino Conca,Francesco Acquaroli,230,0,0,52.51,1,30/09/2025 - 00:46:04
+21,Mercatino Conca,Matteo Ricci,193,0,0,44.06,1,30/09/2025 - 00:46:04
+21,Mercatino Conca,Lidia Mangani,7,0,0,1.6,1,30/09/2025 - 00:46:04
+21,Mercatino Conca,Claudio Bolletta,3,0,0,0.68,1,30/09/2025 - 00:46:04
+21,Mercatino Conca,Francesco Gerardi,3,0,0,0.68,1,30/09/2025 - 00:46:04
+21,Mercatino Conca,Beatrice Marinelli,2,0,0,0.46,1,30/09/2025 - 00:46:04
+22,Mombaroccio,Francesco Acquaroli,775,0,0,74.81,2,30/09/2025 - 00:46:04
+22,Mombaroccio,Matteo Ricci,225,0,0,21.72,2,30/09/2025 - 00:46:04
+22,Mombaroccio,Lidia Mangani,10,0,0,0.97,2,30/09/2025 - 00:46:04
+22,Mombaroccio,Francesco Gerardi,9,0,0,0.87,2,30/09/2025 - 00:46:04
+22,Mombaroccio,Beatrice Marinelli,9,0,0,0.87,2,30/09/2025 - 00:46:04
+22,Mombaroccio,Claudio Bolletta,8,0,0,0.77,2,30/09/2025 - 00:46:04
+23,Mondavio,Francesco Acquaroli,813,0,0,49.63,4,30/09/2025 - 00:46:04
+23,Mondavio,Matteo Ricci,790,0,0,48.23,4,30/09/2025 - 00:46:04
+23,Mondavio,Lidia Mangani,18,0,0,1.1,4,30/09/2025 - 00:46:04
+23,Mondavio,Beatrice Marinelli,10,0,0,0.61,4,30/09/2025 - 00:46:04
+23,Mondavio,Francesco Gerardi,5,0,0,0.31,4,30/09/2025 - 00:46:04
+23,Mondavio,Claudio Bolletta,2,0,0,0.12,4,30/09/2025 - 00:46:04
+24,Mondolfo,Francesco Acquaroli,3542,0,0,58.51,15,30/09/2025 - 00:46:04
+24,Mondolfo,Matteo Ricci,2340,0,0,38.65,15,30/09/2025 - 00:46:04
+24,Mondolfo,Francesco Gerardi,49,0,0,0.81,15,30/09/2025 - 00:46:04
+24,Mondolfo,Lidia Mangani,47,0,0,0.78,15,30/09/2025 - 00:46:04
+24,Mondolfo,Beatrice Marinelli,42,0,0,0.69,15,30/09/2025 - 00:46:04
+24,Mondolfo,Claudio Bolletta,34,0,0,0.56,15,30/09/2025 - 00:46:04
+25,Montecalvo In Foglia,Matteo Ricci,677,0,0,59.18,3,30/09/2025 - 00:46:04
+25,Montecalvo In Foglia,Francesco Acquaroli,431,0,0,37.67,3,30/09/2025 - 00:46:04
+25,Montecalvo In Foglia,Lidia Mangani,14,0,0,1.22,3,30/09/2025 - 00:46:04
+25,Montecalvo In Foglia,Claudio Bolletta,9,0,0,0.79,3,30/09/2025 - 00:46:04
+25,Montecalvo In Foglia,Beatrice Marinelli,8,0,0,0.7,3,30/09/2025 - 00:46:04
+25,Montecalvo In Foglia,Francesco Gerardi,5,0,0,0.44,3,30/09/2025 - 00:46:04
+26,Monte Cerignone,Matteo Ricci,144,0,0,51.99,1,30/09/2025 - 00:46:04
+26,Monte Cerignone,Francesco Acquaroli,128,0,0,46.21,1,30/09/2025 - 00:46:04
+26,Monte Cerignone,Lidia Mangani,4,0,0,1.44,1,30/09/2025 - 00:46:04
+26,Monte Cerignone,Francesco Gerardi,1,0,0,0.36,1,30/09/2025 - 00:46:04
+26,Monte Cerignone,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+26,Monte Cerignone,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+29,Montefelcino,Francesco Acquaroli,752,0,0,63.67,3,30/09/2025 - 00:46:04
+29,Montefelcino,Matteo Ricci,404,0,0,34.21,3,30/09/2025 - 00:46:04
+29,Montefelcino,Claudio Bolletta,7,0,0,0.59,3,30/09/2025 - 00:46:04
+29,Montefelcino,Francesco Gerardi,7,0,0,0.59,3,30/09/2025 - 00:46:04
+29,Montefelcino,Beatrice Marinelli,7,0,0,0.59,3,30/09/2025 - 00:46:04
+29,Montefelcino,Lidia Mangani,4,0,0,0.34,3,30/09/2025 - 00:46:04
+30,Monte Grimano Terme,Francesco Acquaroli,240,0,0,50.21,2,30/09/2025 - 00:46:04
+30,Monte Grimano Terme,Matteo Ricci,223,0,0,46.65,2,30/09/2025 - 00:46:04
+30,Monte Grimano Terme,Claudio Bolletta,7,0,0,1.46,2,30/09/2025 - 00:46:04
+30,Monte Grimano Terme,Lidia Mangani,6,0,0,1.26,2,30/09/2025 - 00:46:04
+30,Monte Grimano Terme,Francesco Gerardi,1,0,0,0.21,2,30/09/2025 - 00:46:04
+30,Monte Grimano Terme,Beatrice Marinelli,1,0,0,0.21,2,30/09/2025 - 00:46:04
+31,Montelabbate,Matteo Ricci,1206,0,0,51.85,6,30/09/2025 - 00:46:04
+31,Montelabbate,Francesco Acquaroli,1004,0,0,43.16,6,30/09/2025 - 00:46:04
+31,Montelabbate,Lidia Mangani,39,0,0,1.68,6,30/09/2025 - 00:46:04
+31,Montelabbate,Beatrice Marinelli,31,0,0,1.33,6,30/09/2025 - 00:46:04
+31,Montelabbate,Francesco Gerardi,24,0,0,1.03,6,30/09/2025 - 00:46:04
+31,Montelabbate,Claudio Bolletta,22,0,0,0.95,6,30/09/2025 - 00:46:04
+32,Monte Porzio,Francesco Acquaroli,632,0,0,57.04,2,30/09/2025 - 00:46:04
+32,Monte Porzio,Matteo Ricci,431,0,0,38.9,2,30/09/2025 - 00:46:04
+32,Monte Porzio,Lidia Mangani,25,0,0,2.26,2,30/09/2025 - 00:46:04
+32,Monte Porzio,Claudio Bolletta,7,0,0,0.63,2,30/09/2025 - 00:46:04
+32,Monte Porzio,Francesco Gerardi,7,0,0,0.63,2,30/09/2025 - 00:46:04
+32,Monte Porzio,Beatrice Marinelli,6,0,0,0.54,2,30/09/2025 - 00:46:04
+33,Peglio,Matteo Ricci,186,0,0,55.36,1,30/09/2025 - 00:46:04
+33,Peglio,Francesco Acquaroli,140,0,0,41.67,1,30/09/2025 - 00:46:04
+33,Peglio,Lidia Mangani,5,0,0,1.49,1,30/09/2025 - 00:46:04
+33,Peglio,Beatrice Marinelli,3,0,0,0.89,1,30/09/2025 - 00:46:04
+33,Peglio,Claudio Bolletta,2,0,0,0.6,1,30/09/2025 - 00:46:04
+33,Peglio,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+34,Pergola,Francesco Acquaroli,1988,0,0,66.89,12,30/09/2025 - 00:46:04
+34,Pergola,Matteo Ricci,950,0,0,31.97,12,30/09/2025 - 00:46:04
+34,Pergola,Lidia Mangani,13,0,0,0.44,12,30/09/2025 - 00:46:04
+34,Pergola,Claudio Bolletta,7,0,0,0.24,12,30/09/2025 - 00:46:04
+34,Pergola,Francesco Gerardi,7,0,0,0.24,12,30/09/2025 - 00:46:04
+34,Pergola,Beatrice Marinelli,7,0,0,0.24,12,30/09/2025 - 00:46:04
+35,Pesaro,Matteo Ricci,21774,0,0,51.11,106,30/09/2025 - 00:46:04
+35,Pesaro,Francesco Acquaroli,19143,0,0,44.93,106,30/09/2025 - 00:46:04
+35,Pesaro,Lidia Mangani,662,0,0,1.55,106,30/09/2025 - 00:46:04
+35,Pesaro,Francesco Gerardi,388,0,0,0.91,106,30/09/2025 - 00:46:04
+35,Pesaro,Claudio Bolletta,336,0,0,0.79,106,30/09/2025 - 00:46:04
+35,Pesaro,Beatrice Marinelli,300,0,0,0.7,106,30/09/2025 - 00:46:04
+36,Petriano,Francesco Acquaroli,625,0,0,55.8,3,30/09/2025 - 00:46:04
+36,Petriano,Matteo Ricci,475,0,0,42.41,3,30/09/2025 - 00:46:04
+36,Petriano,Claudio Bolletta,6,0,0,0.54,3,30/09/2025 - 00:46:04
+36,Petriano,Francesco Gerardi,6,0,0,0.54,3,30/09/2025 - 00:46:04
+36,Petriano,Lidia Mangani,5,0,0,0.45,3,30/09/2025 - 00:46:04
+36,Petriano,Beatrice Marinelli,3,0,0,0.27,3,30/09/2025 - 00:46:04
+37,Piandimeleto,Francesco Acquaroli,688,0,0,72.04,3,30/09/2025 - 00:46:04
+37,Piandimeleto,Matteo Ricci,246,0,0,25.76,3,30/09/2025 - 00:46:04
+37,Piandimeleto,Lidia Mangani,11,0,0,1.15,3,30/09/2025 - 00:46:04
+37,Piandimeleto,Francesco Gerardi,4,0,0,0.42,3,30/09/2025 - 00:46:04
+37,Piandimeleto,Beatrice Marinelli,4,0,0,0.42,3,30/09/2025 - 00:46:04
+37,Piandimeleto,Claudio Bolletta,2,0,0,0.21,3,30/09/2025 - 00:46:04
+38,Pietrarubbia,Francesco Acquaroli,139,0,0,54.94,1,30/09/2025 - 00:46:04
+38,Pietrarubbia,Matteo Ricci,109,0,0,43.08,1,30/09/2025 - 00:46:04
+38,Pietrarubbia,Lidia Mangani,4,0,0,1.58,1,30/09/2025 - 00:46:04
+38,Pietrarubbia,Francesco Gerardi,1,0,0,0.4,1,30/09/2025 - 00:46:04
+38,Pietrarubbia,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+38,Pietrarubbia,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+39,Piobbico,Francesco Acquaroli,535,0,0,66.71,2,30/09/2025 - 00:46:04
+39,Piobbico,Matteo Ricci,246,0,0,30.67,2,30/09/2025 - 00:46:04
+39,Piobbico,Lidia Mangani,10,0,0,1.25,2,30/09/2025 - 00:46:04
+39,Piobbico,Francesco Gerardi,6,0,0,0.75,2,30/09/2025 - 00:46:04
+39,Piobbico,Beatrice Marinelli,3,0,0,0.37,2,30/09/2025 - 00:46:04
+39,Piobbico,Claudio Bolletta,2,0,0,0.25,2,30/09/2025 - 00:46:04
+40,San Costanzo,Francesco Acquaroli,1175,0,0,56.9,4,30/09/2025 - 00:46:04
+40,San Costanzo,Matteo Ricci,815,0,0,39.47,4,30/09/2025 - 00:46:04
+40,San Costanzo,Beatrice Marinelli,32,0,0,1.55,4,30/09/2025 - 00:46:04
+40,San Costanzo,Lidia Mangani,23,0,0,1.11,4,30/09/2025 - 00:46:04
+40,San Costanzo,Francesco Gerardi,14,0,0,0.68,4,30/09/2025 - 00:46:04
+40,San Costanzo,Claudio Bolletta,6,0,0,0.29,4,30/09/2025 - 00:46:04
+41,San Lorenzo In Campo,Francesco Acquaroli,780,0,0,53.21,4,30/09/2025 - 00:46:04
+41,San Lorenzo In Campo,Matteo Ricci,651,0,0,44.41,4,30/09/2025 - 00:46:04
+41,San Lorenzo In Campo,Lidia Mangani,18,0,0,1.23,4,30/09/2025 - 00:46:04
+41,San Lorenzo In Campo,Claudio Bolletta,8,0,0,0.55,4,30/09/2025 - 00:46:04
+41,San Lorenzo In Campo,Beatrice Marinelli,5,0,0,0.34,4,30/09/2025 - 00:46:04
+41,San Lorenzo In Campo,Francesco Gerardi,4,0,0,0.27,4,30/09/2025 - 00:46:04
+42,Sant'Angelo In Vado,Francesco Acquaroli,1186,0,0,65.52,4,30/09/2025 - 00:46:04
+42,Sant'Angelo In Vado,Matteo Ricci,593,0,0,32.76,4,30/09/2025 - 00:46:04
+42,Sant'Angelo In Vado,Lidia Mangani,10,0,0,0.55,4,30/09/2025 - 00:46:04
+42,Sant'Angelo In Vado,Francesco Gerardi,10,0,0,0.55,4,30/09/2025 - 00:46:04
+42,Sant'Angelo In Vado,Beatrice Marinelli,6,0,0,0.33,4,30/09/2025 - 00:46:04
+42,Sant'Angelo In Vado,Claudio Bolletta,5,0,0,0.28,4,30/09/2025 - 00:46:04
+43,Sant'Ippolito,Francesco Acquaroli,400,0,0,59.88,3,30/09/2025 - 00:46:04
+43,Sant'Ippolito,Matteo Ricci,248,0,0,37.13,3,30/09/2025 - 00:46:04
+43,Sant'Ippolito,Lidia Mangani,6,0,0,0.9,3,30/09/2025 - 00:46:04
+43,Sant'Ippolito,Francesco Gerardi,5,0,0,0.75,3,30/09/2025 - 00:46:04
+43,Sant'Ippolito,Beatrice Marinelli,5,0,0,0.75,3,30/09/2025 - 00:46:04
+43,Sant'Ippolito,Claudio Bolletta,4,0,0,0.6,3,30/09/2025 - 00:46:04
+45,Serra Sant'Abbondio,Francesco Acquaroli,246,0,0,55.78,2,30/09/2025 - 00:46:04
+45,Serra Sant'Abbondio,Matteo Ricci,189,0,0,42.86,2,30/09/2025 - 00:46:04
+45,Serra Sant'Abbondio,Lidia Mangani,3,0,0,0.68,2,30/09/2025 - 00:46:04
+45,Serra Sant'Abbondio,Claudio Bolletta,2,0,0,0.45,2,30/09/2025 - 00:46:04
+45,Serra Sant'Abbondio,Beatrice Marinelli,1,0,0,0.23,2,30/09/2025 - 00:46:04
+45,Serra Sant'Abbondio,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+46,Tavoleto,Francesco Acquaroli,170,0,0,56.48,1,30/09/2025 - 00:46:04
+46,Tavoleto,Matteo Ricci,125,0,0,41.53,1,30/09/2025 - 00:46:04
+46,Tavoleto,Lidia Mangani,3,0,0,1.0,1,30/09/2025 - 00:46:04
+46,Tavoleto,Francesco Gerardi,3,0,0,1.0,1,30/09/2025 - 00:46:04
+46,Tavoleto,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+46,Tavoleto,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+47,Tavullia,Francesco Acquaroli,1450,0,0,55.81,8,30/09/2025 - 00:46:04
+47,Tavullia,Matteo Ricci,1061,0,0,40.84,8,30/09/2025 - 00:46:04
+47,Tavullia,Lidia Mangani,32,0,0,1.23,8,30/09/2025 - 00:46:04
+47,Tavullia,Beatrice Marinelli,23,0,0,0.89,8,30/09/2025 - 00:46:04
+47,Tavullia,Claudio Bolletta,18,0,0,0.69,8,30/09/2025 - 00:46:04
+47,Tavullia,Francesco Gerardi,14,0,0,0.54,8,30/09/2025 - 00:46:04
+48,Urbania,Francesco Acquaroli,1723,0,0,55.35,6,30/09/2025 - 00:46:04
+48,Urbania,Matteo Ricci,1299,0,0,41.73,6,30/09/2025 - 00:46:04
+48,Urbania,Beatrice Marinelli,28,0,0,0.9,6,30/09/2025 - 00:46:04
+48,Urbania,Lidia Mangani,25,0,0,0.8,6,30/09/2025 - 00:46:04
+48,Urbania,Francesco Gerardi,24,0,0,0.77,6,30/09/2025 - 00:46:04
+48,Urbania,Claudio Bolletta,14,0,0,0.45,6,30/09/2025 - 00:46:04
+49,Urbino,Matteo Ricci,3630,0,0,53.26,20,30/09/2025 - 00:46:04
+49,Urbino,Francesco Acquaroli,2962,0,0,43.46,20,30/09/2025 - 00:46:04
+49,Urbino,Lidia Mangani,95,0,0,1.39,20,30/09/2025 - 00:46:04
+49,Urbino,Claudio Bolletta,54,0,0,0.79,20,30/09/2025 - 00:46:04
+49,Urbino,Francesco Gerardi,46,0,0,0.67,20,30/09/2025 - 00:46:04
+49,Urbino,Beatrice Marinelli,28,0,0,0.41,20,30/09/2025 - 00:46:04
+50,Vallefoglia,Matteo Ricci,2677,0,0,51.3,14,30/09/2025 - 00:46:04
+50,Vallefoglia,Francesco Acquaroli,2334,0,0,44.73,14,30/09/2025 - 00:46:04
+50,Vallefoglia,Claudio Bolletta,62,0,0,1.19,14,30/09/2025 - 00:46:04
+50,Vallefoglia,Lidia Mangani,60,0,0,1.15,14,30/09/2025 - 00:46:04
+50,Vallefoglia,Beatrice Marinelli,50,0,0,0.96,14,30/09/2025 - 00:46:04
+50,Vallefoglia,Francesco Gerardi,35,0,0,0.67,14,30/09/2025 - 00:46:04
+51,Colli Al Metauro,Francesco Acquaroli,2970,0,0,59.69,11,30/09/2025 - 00:46:04
+51,Colli Al Metauro,Matteo Ricci,1824,0,0,36.66,11,30/09/2025 - 00:46:04
+51,Colli Al Metauro,Beatrice Marinelli,101,0,0,2.03,11,30/09/2025 - 00:46:04
+51,Colli Al Metauro,Lidia Mangani,33,0,0,0.66,11,30/09/2025 - 00:46:04
+51,Colli Al Metauro,Claudio Bolletta,29,0,0,0.58,11,30/09/2025 - 00:46:04
+51,Colli Al Metauro,Francesco Gerardi,19,0,0,0.38,11,30/09/2025 - 00:46:04
+52,Terre Roveresche,Francesco Acquaroli,1268,0,0,57.64,8,30/09/2025 - 00:46:04
+52,Terre Roveresche,Matteo Ricci,847,0,0,38.5,8,30/09/2025 - 00:46:04
+52,Terre Roveresche,Beatrice Marinelli,35,0,0,1.59,8,30/09/2025 - 00:46:04
+52,Terre Roveresche,Lidia Mangani,24,0,0,1.09,8,30/09/2025 - 00:46:04
+52,Terre Roveresche,Claudio Bolletta,15,0,0,0.68,8,30/09/2025 - 00:46:04
+52,Terre Roveresche,Francesco Gerardi,11,0,0,0.5,8,30/09/2025 - 00:46:04
+53,Sassocorvaro Auditore,Francesco Acquaroli,1285,0,0,57.88,7,30/09/2025 - 00:46:04
+53,Sassocorvaro Auditore,Matteo Ricci,827,0,0,37.25,7,30/09/2025 - 00:46:04
+53,Sassocorvaro Auditore,Beatrice Marinelli,68,0,0,3.06,7,30/09/2025 - 00:46:04
+53,Sassocorvaro Auditore,Lidia Mangani,22,0,0,0.99,7,30/09/2025 - 00:46:04
+53,Sassocorvaro Auditore,Claudio Bolletta,13,0,0,0.59,7,30/09/2025 - 00:46:04
+53,Sassocorvaro Auditore,Francesco Gerardi,5,0,0,0.23,7,30/09/2025 - 00:46:04
+54,Agugliano,Matteo Ricci,1190,0,0,54.29,4,30/09/2025 - 00:46:04
+54,Agugliano,Francesco Acquaroli,941,0,0,42.93,4,30/09/2025 - 00:46:04
+54,Agugliano,Beatrice Marinelli,23,0,0,1.05,4,30/09/2025 - 00:46:04
+54,Agugliano,Lidia Mangani,17,0,0,0.78,4,30/09/2025 - 00:46:04
+54,Agugliano,Francesco Gerardi,11,0,0,0.5,4,30/09/2025 - 00:46:04
+54,Agugliano,Claudio Bolletta,10,0,0,0.46,4,30/09/2025 - 00:46:04
+55,Ancona,Matteo Ricci,21662,0,0,53.14,99,30/09/2025 - 00:46:04
+55,Ancona,Francesco Acquaroli,17673,0,0,43.35,99,30/09/2025 - 00:46:04
+55,Ancona,Lidia Mangani,601,0,0,1.47,99,30/09/2025 - 00:46:04
+55,Ancona,Beatrice Marinelli,328,0,0,0.8,99,30/09/2025 - 00:46:04
+55,Ancona,Claudio Bolletta,280,0,0,0.69,99,30/09/2025 - 00:46:04
+55,Ancona,Francesco Gerardi,222,0,0,0.54,99,30/09/2025 - 00:46:04
+56,Arcevia,Francesco Acquaroli,917,0,0,48.01,9,30/09/2025 - 00:46:04
+56,Arcevia,Matteo Ricci,915,0,0,47.91,9,30/09/2025 - 00:46:04
+56,Arcevia,Lidia Mangani,35,0,0,1.83,9,30/09/2025 - 00:46:04
+56,Arcevia,Beatrice Marinelli,19,0,0,0.99,9,30/09/2025 - 00:46:04
+56,Arcevia,Claudio Bolletta,12,0,0,0.63,9,30/09/2025 - 00:46:04
+56,Arcevia,Francesco Gerardi,12,0,0,0.63,9,30/09/2025 - 00:46:04
+57,Barbara,Francesco Acquaroli,314,0,0,55.97,2,30/09/2025 - 00:46:04
+57,Barbara,Matteo Ricci,234,0,0,41.71,2,30/09/2025 - 00:46:04
+57,Barbara,Beatrice Marinelli,7,0,0,1.25,2,30/09/2025 - 00:46:04
+57,Barbara,Lidia Mangani,6,0,0,1.07,2,30/09/2025 - 00:46:04
+57,Barbara,Claudio Bolletta,0,0,0,0.0,2,30/09/2025 - 00:46:04
+57,Barbara,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+58,Belvedere Ostrense,Francesco Acquaroli,485,0,0,53.53,2,30/09/2025 - 00:46:04
+58,Belvedere Ostrense,Matteo Ricci,391,0,0,43.16,2,30/09/2025 - 00:46:04
+58,Belvedere Ostrense,Claudio Bolletta,12,0,0,1.32,2,30/09/2025 - 00:46:04
+58,Belvedere Ostrense,Beatrice Marinelli,8,0,0,0.88,2,30/09/2025 - 00:46:04
+58,Belvedere Ostrense,Lidia Mangani,8,0,0,0.88,2,30/09/2025 - 00:46:04
+58,Belvedere Ostrense,Francesco Gerardi,2,0,0,0.22,2,30/09/2025 - 00:46:04
+59,Camerano,Francesco Acquaroli,1560,0,0,49.2,6,30/09/2025 - 00:46:04
+59,Camerano,Matteo Ricci,1469,0,0,46.33,6,30/09/2025 - 00:46:04
+59,Camerano,Francesco Gerardi,49,0,0,1.55,6,30/09/2025 - 00:46:04
+59,Camerano,Beatrice Marinelli,32,0,0,1.01,6,30/09/2025 - 00:46:04
+59,Camerano,Lidia Mangani,32,0,0,1.01,6,30/09/2025 - 00:46:04
+59,Camerano,Claudio Bolletta,29,0,0,0.91,6,30/09/2025 - 00:46:04
+60,Camerata Picena,Francesco Acquaroli,539,0,0,51.68,2,30/09/2025 - 00:46:04
+60,Camerata Picena,Matteo Ricci,470,0,0,45.06,2,30/09/2025 - 00:46:04
+60,Camerata Picena,Claudio Bolletta,11,0,0,1.05,2,30/09/2025 - 00:46:04
+60,Camerata Picena,Beatrice Marinelli,10,0,0,0.96,2,30/09/2025 - 00:46:04
+60,Camerata Picena,Lidia Mangani,8,0,0,0.77,2,30/09/2025 - 00:46:04
+60,Camerata Picena,Francesco Gerardi,5,0,0,0.48,2,30/09/2025 - 00:46:04
+61,Castelbellino,Matteo Ricci,1009,0,0,48.37,4,30/09/2025 - 00:46:04
+61,Castelbellino,Francesco Acquaroli,1004,0,0,48.13,4,30/09/2025 - 00:46:04
+61,Castelbellino,Lidia Mangani,32,0,0,1.53,4,30/09/2025 - 00:46:04
+61,Castelbellino,Beatrice Marinelli,19,0,0,0.91,4,30/09/2025 - 00:46:04
+61,Castelbellino,Francesco Gerardi,12,0,0,0.58,4,30/09/2025 - 00:46:04
+61,Castelbellino,Claudio Bolletta,10,0,0,0.48,4,30/09/2025 - 00:46:04
+62,Castelfidardo,Francesco Acquaroli,3506,0,0,50.06,16,30/09/2025 - 00:46:04
+62,Castelfidardo,Matteo Ricci,3208,0,0,45.81,16,30/09/2025 - 00:46:04
+62,Castelfidardo,Beatrice Marinelli,105,0,0,1.5,16,30/09/2025 - 00:46:04
+62,Castelfidardo,Francesco Gerardi,102,0,0,1.46,16,30/09/2025 - 00:46:04
+62,Castelfidardo,Lidia Mangani,46,0,0,0.66,16,30/09/2025 - 00:46:04
+62,Castelfidardo,Claudio Bolletta,36,0,0,0.51,16,30/09/2025 - 00:46:04
+63,Castelleone Di Suasa,Francesco Acquaroli,426,0,0,55.69,2,30/09/2025 - 00:46:04
+63,Castelleone Di Suasa,Matteo Ricci,318,0,0,41.57,2,30/09/2025 - 00:46:04
+63,Castelleone Di Suasa,Lidia Mangani,8,0,0,1.05,2,30/09/2025 - 00:46:04
+63,Castelleone Di Suasa,Claudio Bolletta,5,0,0,0.65,2,30/09/2025 - 00:46:04
+63,Castelleone Di Suasa,Beatrice Marinelli,5,0,0,0.65,2,30/09/2025 - 00:46:04
+63,Castelleone Di Suasa,Francesco Gerardi,3,0,0,0.39,2,30/09/2025 - 00:46:04
+64,Castelplanio,Matteo Ricci,768,0,0,53.71,4,30/09/2025 - 00:46:04
+64,Castelplanio,Francesco Acquaroli,611,0,0,42.73,4,30/09/2025 - 00:46:04
+64,Castelplanio,Lidia Mangani,16,0,0,1.12,4,30/09/2025 - 00:46:04
+64,Castelplanio,Claudio Bolletta,15,0,0,1.05,4,30/09/2025 - 00:46:04
+64,Castelplanio,Beatrice Marinelli,11,0,0,0.77,4,30/09/2025 - 00:46:04
+64,Castelplanio,Francesco Gerardi,9,0,0,0.63,4,30/09/2025 - 00:46:04
+65,Cerreto D'Esi,Francesco Acquaroli,645,0,0,52.31,3,30/09/2025 - 00:46:04
+65,Cerreto D'Esi,Matteo Ricci,541,0,0,43.88,3,30/09/2025 - 00:46:04
+65,Cerreto D'Esi,Lidia Mangani,16,0,0,1.3,3,30/09/2025 - 00:46:04
+65,Cerreto D'Esi,Beatrice Marinelli,14,0,0,1.14,3,30/09/2025 - 00:46:04
+65,Cerreto D'Esi,Francesco Gerardi,9,0,0,0.73,3,30/09/2025 - 00:46:04
+65,Cerreto D'Esi,Claudio Bolletta,8,0,0,0.65,3,30/09/2025 - 00:46:04
+66,Chiaravalle,Matteo Ricci,3517,0,0,56.63,13,30/09/2025 - 00:46:04
+66,Chiaravalle,Francesco Acquaroli,2430,0,0,39.12,13,30/09/2025 - 00:46:04
+66,Chiaravalle,Claudio Bolletta,102,0,0,1.64,13,30/09/2025 - 00:46:04
+66,Chiaravalle,Lidia Mangani,72,0,0,1.16,13,30/09/2025 - 00:46:04
+66,Chiaravalle,Beatrice Marinelli,59,0,0,0.95,13,30/09/2025 - 00:46:04
+66,Chiaravalle,Francesco Gerardi,31,0,0,0.5,13,30/09/2025 - 00:46:04
+67,Corinaldo,Francesco Acquaroli,1225,0,0,54.42,5,30/09/2025 - 00:46:04
+67,Corinaldo,Matteo Ricci,946,0,0,42.03,5,30/09/2025 - 00:46:04
+67,Corinaldo,Francesco Gerardi,31,0,0,1.38,5,30/09/2025 - 00:46:04
+67,Corinaldo,Lidia Mangani,21,0,0,0.93,5,30/09/2025 - 00:46:04
+67,Corinaldo,Claudio Bolletta,16,0,0,0.71,5,30/09/2025 - 00:46:04
+67,Corinaldo,Beatrice Marinelli,12,0,0,0.53,5,30/09/2025 - 00:46:04
+68,Cupramontana,Francesco Acquaroli,897,0,0,48.59,4,30/09/2025 - 00:46:04
+68,Cupramontana,Matteo Ricci,891,0,0,48.27,4,30/09/2025 - 00:46:04
+68,Cupramontana,Lidia Mangani,21,0,0,1.14,4,30/09/2025 - 00:46:04
+68,Cupramontana,Claudio Bolletta,15,0,0,0.81,4,30/09/2025 - 00:46:04
+68,Cupramontana,Beatrice Marinelli,15,0,0,0.81,4,30/09/2025 - 00:46:04
+68,Cupramontana,Francesco Gerardi,7,0,0,0.38,4,30/09/2025 - 00:46:04
+69,Fabriano,Francesco Acquaroli,6182,0,0,50.35,40,30/09/2025 - 00:46:04
+69,Fabriano,Matteo Ricci,5682,0,0,46.27,40,30/09/2025 - 00:46:04
+69,Fabriano,Beatrice Marinelli,123,0,0,1.0,40,30/09/2025 - 00:46:04
+69,Fabriano,Lidia Mangani,112,0,0,0.91,40,30/09/2025 - 00:46:04
+69,Fabriano,Francesco Gerardi,92,0,0,0.75,40,30/09/2025 - 00:46:04
+69,Fabriano,Claudio Bolletta,88,0,0,0.72,40,30/09/2025 - 00:46:04
+70,Falconara Marittima,Matteo Ricci,5683,0,0,53.23,27,30/09/2025 - 00:46:04
+70,Falconara Marittima,Francesco Acquaroli,4631,0,0,43.37,27,30/09/2025 - 00:46:04
+70,Falconara Marittima,Lidia Mangani,124,0,0,1.16,27,30/09/2025 - 00:46:04
+70,Falconara Marittima,Claudio Bolletta,102,0,0,0.96,27,30/09/2025 - 00:46:04
+70,Falconara Marittima,Beatrice Marinelli,75,0,0,0.7,27,30/09/2025 - 00:46:04
+70,Falconara Marittima,Francesco Gerardi,62,0,0,0.58,27,30/09/2025 - 00:46:04
+71,Filottrano,Francesco Acquaroli,2569,0,0,63.14,8,30/09/2025 - 00:46:04
+71,Filottrano,Matteo Ricci,1381,0,0,33.94,8,30/09/2025 - 00:46:04
+71,Filottrano,Beatrice Marinelli,39,0,0,0.96,8,30/09/2025 - 00:46:04
+71,Filottrano,Francesco Gerardi,34,0,0,0.84,8,30/09/2025 - 00:46:04
+71,Filottrano,Claudio Bolletta,26,0,0,0.64,8,30/09/2025 - 00:46:04
+71,Filottrano,Lidia Mangani,20,0,0,0.49,8,30/09/2025 - 00:46:04
+72,Genga,Matteo Ricci,421,0,0,48.73,2,30/09/2025 - 00:46:04
+72,Genga,Francesco Acquaroli,386,0,0,44.68,2,30/09/2025 - 00:46:04
+72,Genga,Beatrice Marinelli,49,0,0,5.67,2,30/09/2025 - 00:46:04
+72,Genga,Lidia Mangani,3,0,0,0.35,2,30/09/2025 - 00:46:04
+72,Genga,Francesco Gerardi,3,0,0,0.35,2,30/09/2025 - 00:46:04
+72,Genga,Claudio Bolletta,2,0,0,0.23,2,30/09/2025 - 00:46:04
+73,Jesi,Matteo Ricci,9482,0,0,55.29,40,30/09/2025 - 00:46:04
+73,Jesi,Francesco Acquaroli,6984,0,0,40.72,40,30/09/2025 - 00:46:04
+73,Jesi,Lidia Mangani,216,0,0,1.26,40,30/09/2025 - 00:46:04
+73,Jesi,Beatrice Marinelli,185,0,0,1.08,40,30/09/2025 - 00:46:04
+73,Jesi,Claudio Bolletta,159,0,0,0.93,40,30/09/2025 - 00:46:04
+73,Jesi,Francesco Gerardi,124,0,0,0.72,40,30/09/2025 - 00:46:04
+74,Loreto,Francesco Acquaroli,2740,0,0,53.14,10,30/09/2025 - 00:46:04
+74,Loreto,Matteo Ricci,2156,0,0,41.82,10,30/09/2025 - 00:46:04
+74,Loreto,Beatrice Marinelli,126,0,0,2.44,10,30/09/2025 - 00:46:04
+74,Loreto,Claudio Bolletta,64,0,0,1.24,10,30/09/2025 - 00:46:04
+74,Loreto,Francesco Gerardi,39,0,0,0.76,10,30/09/2025 - 00:46:04
+74,Loreto,Lidia Mangani,31,0,0,0.6,10,30/09/2025 - 00:46:04
+75,Maiolati Spontini,Francesco Acquaroli,1495,0,0,54.92,6,30/09/2025 - 00:46:04
+75,Maiolati Spontini,Matteo Ricci,1142,0,0,41.95,6,30/09/2025 - 00:46:04
+75,Maiolati Spontini,Lidia Mangani,29,0,0,1.07,6,30/09/2025 - 00:46:04
+75,Maiolati Spontini,Claudio Bolletta,27,0,0,0.99,6,30/09/2025 - 00:46:04
+75,Maiolati Spontini,Beatrice Marinelli,17,0,0,0.62,6,30/09/2025 - 00:46:04
+75,Maiolati Spontini,Francesco Gerardi,12,0,0,0.44,6,30/09/2025 - 00:46:04
+76,Mergo,Francesco Acquaroli,281,0,0,59.66,1,30/09/2025 - 00:46:04
+76,Mergo,Matteo Ricci,176,0,0,37.37,1,30/09/2025 - 00:46:04
+76,Mergo,Lidia Mangani,6,0,0,1.27,1,30/09/2025 - 00:46:04
+76,Mergo,Claudio Bolletta,4,0,0,0.85,1,30/09/2025 - 00:46:04
+76,Mergo,Beatrice Marinelli,2,0,0,0.42,1,30/09/2025 - 00:46:04
+76,Mergo,Francesco Gerardi,2,0,0,0.42,1,30/09/2025 - 00:46:04
+77,Monsano,Matteo Ricci,860,0,0,53.12,3,30/09/2025 - 00:46:04
+77,Monsano,Francesco Acquaroli,691,0,0,42.68,3,30/09/2025 - 00:46:04
+77,Monsano,Claudio Bolletta,22,0,0,1.36,3,30/09/2025 - 00:46:04
+77,Monsano,Lidia Mangani,17,0,0,1.05,3,30/09/2025 - 00:46:04
+77,Monsano,Francesco Gerardi,16,0,0,0.99,3,30/09/2025 - 00:46:04
+77,Monsano,Beatrice Marinelli,13,0,0,0.8,3,30/09/2025 - 00:46:04
+78,Montecarotto,Matteo Ricci,488,0,0,57.14,2,30/09/2025 - 00:46:04
+78,Montecarotto,Francesco Acquaroli,324,0,0,37.94,2,30/09/2025 - 00:46:04
+78,Montecarotto,Claudio Bolletta,12,0,0,1.41,2,30/09/2025 - 00:46:04
+78,Montecarotto,Beatrice Marinelli,11,0,0,1.29,2,30/09/2025 - 00:46:04
+78,Montecarotto,Lidia Mangani,10,0,0,1.17,2,30/09/2025 - 00:46:04
+78,Montecarotto,Francesco Gerardi,9,0,0,1.05,2,30/09/2025 - 00:46:04
+79,Montemarciano,Matteo Ricci,2080,0,0,52.09,9,30/09/2025 - 00:46:04
+79,Montemarciano,Francesco Acquaroli,1730,0,0,43.33,9,30/09/2025 - 00:46:04
+79,Montemarciano,Lidia Mangani,61,0,0,1.53,9,30/09/2025 - 00:46:04
+79,Montemarciano,Beatrice Marinelli,56,0,0,1.4,9,30/09/2025 - 00:46:04
+79,Montemarciano,Claudio Bolletta,39,0,0,0.98,9,30/09/2025 - 00:46:04
+79,Montemarciano,Francesco Gerardi,27,0,0,0.68,9,30/09/2025 - 00:46:04
+80,Monte Roberto,Francesco Acquaroli,623,0,0,48.11,3,30/09/2025 - 00:46:04
+80,Monte Roberto,Matteo Ricci,620,0,0,47.88,3,30/09/2025 - 00:46:04
+80,Monte Roberto,Lidia Mangani,20,0,0,1.54,3,30/09/2025 - 00:46:04
+80,Monte Roberto,Beatrice Marinelli,14,0,0,1.08,3,30/09/2025 - 00:46:04
+80,Monte Roberto,Claudio Bolletta,9,0,0,0.69,3,30/09/2025 - 00:46:04
+80,Monte Roberto,Francesco Gerardi,9,0,0,0.69,3,30/09/2025 - 00:46:04
+81,Monte San Vito,Matteo Ricci,1705,0,0,54.02,6,30/09/2025 - 00:46:04
+81,Monte San Vito,Francesco Acquaroli,1279,0,0,40.53,6,30/09/2025 - 00:46:04
+81,Monte San Vito,Lidia Mangani,56,0,0,1.77,6,30/09/2025 - 00:46:04
+81,Monte San Vito,Beatrice Marinelli,43,0,0,1.36,6,30/09/2025 - 00:46:04
+81,Monte San Vito,Claudio Bolletta,42,0,0,1.33,6,30/09/2025 - 00:46:04
+81,Monte San Vito,Francesco Gerardi,31,0,0,0.98,6,30/09/2025 - 00:46:04
+82,Morro D'Alba,Matteo Ricci,377,0,0,50.47,2,30/09/2025 - 00:46:04
+82,Morro D'Alba,Francesco Acquaroli,347,0,0,46.45,2,30/09/2025 - 00:46:04
+82,Morro D'Alba,Lidia Mangani,10,0,0,1.34,2,30/09/2025 - 00:46:04
+82,Morro D'Alba,Claudio Bolletta,5,0,0,0.67,2,30/09/2025 - 00:46:04
+82,Morro D'Alba,Beatrice Marinelli,5,0,0,0.67,2,30/09/2025 - 00:46:04
+82,Morro D'Alba,Francesco Gerardi,3,0,0,0.4,2,30/09/2025 - 00:46:04
+83,Numana,Francesco Acquaroli,1084,0,0,60.02,3,30/09/2025 - 00:46:04
+83,Numana,Matteo Ricci,648,0,0,35.88,3,30/09/2025 - 00:46:04
+83,Numana,Beatrice Marinelli,23,0,0,1.27,3,30/09/2025 - 00:46:04
+83,Numana,Francesco Gerardi,20,0,0,1.11,3,30/09/2025 - 00:46:04
+83,Numana,Lidia Mangani,19,0,0,1.05,3,30/09/2025 - 00:46:04
+83,Numana,Claudio Bolletta,12,0,0,0.66,3,30/09/2025 - 00:46:04
+84,Offagna,Francesco Acquaroli,498,0,0,50.0,2,30/09/2025 - 00:46:04
+84,Offagna,Matteo Ricci,469,0,0,47.09,2,30/09/2025 - 00:46:04
+84,Offagna,Lidia Mangani,12,0,0,1.2,2,30/09/2025 - 00:46:04
+84,Offagna,Beatrice Marinelli,10,0,0,1.0,2,30/09/2025 - 00:46:04
+84,Offagna,Claudio Bolletta,4,0,0,0.4,2,30/09/2025 - 00:46:04
+84,Offagna,Francesco Gerardi,3,0,0,0.3,2,30/09/2025 - 00:46:04
+85,Osimo,Francesco Acquaroli,7476,0,0,49.91,33,30/09/2025 - 00:46:04
+85,Osimo,Matteo Ricci,7077,0,0,47.24,33,30/09/2025 - 00:46:04
+85,Osimo,Beatrice Marinelli,147,0,0,0.98,33,30/09/2025 - 00:46:04
+85,Osimo,Lidia Mangani,131,0,0,0.87,33,30/09/2025 - 00:46:04
+85,Osimo,Claudio Bolletta,77,0,0,0.51,33,30/09/2025 - 00:46:04
+85,Osimo,Francesco Gerardi,72,0,0,0.48,33,30/09/2025 - 00:46:04
+86,Ostra,Francesco Acquaroli,1730,0,0,62.23,6,30/09/2025 - 00:46:04
+86,Ostra,Matteo Ricci,963,0,0,34.64,6,30/09/2025 - 00:46:04
+86,Ostra,Francesco Gerardi,30,0,0,1.08,6,30/09/2025 - 00:46:04
+86,Ostra,Beatrice Marinelli,26,0,0,0.94,6,30/09/2025 - 00:46:04
+86,Ostra,Claudio Bolletta,20,0,0,0.72,6,30/09/2025 - 00:46:04
+86,Ostra,Lidia Mangani,11,0,0,0.4,6,30/09/2025 - 00:46:04
+87,Ostra Vetere,Francesco Acquaroli,917,0,0,60.53,3,30/09/2025 - 00:46:04
+87,Ostra Vetere,Matteo Ricci,585,0,0,38.61,3,30/09/2025 - 00:46:04
+87,Ostra Vetere,Lidia Mangani,6,0,0,0.4,3,30/09/2025 - 00:46:04
+87,Ostra Vetere,Francesco Gerardi,3,0,0,0.2,3,30/09/2025 - 00:46:04
+87,Ostra Vetere,Claudio Bolletta,2,0,0,0.13,3,30/09/2025 - 00:46:04
+87,Ostra Vetere,Beatrice Marinelli,2,0,0,0.13,3,30/09/2025 - 00:46:04
+88,Poggio San Marcello,Francesco Acquaroli,166,0,0,53.9,1,30/09/2025 - 00:46:04
+88,Poggio San Marcello,Matteo Ricci,134,0,0,43.51,1,30/09/2025 - 00:46:04
+88,Poggio San Marcello,Beatrice Marinelli,5,0,0,1.62,1,30/09/2025 - 00:46:04
+88,Poggio San Marcello,Lidia Mangani,2,0,0,0.65,1,30/09/2025 - 00:46:04
+88,Poggio San Marcello,Claudio Bolletta,1,0,0,0.32,1,30/09/2025 - 00:46:04
+88,Poggio San Marcello,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+89,Polverigi,Matteo Ricci,1036,0,0,49.95,4,30/09/2025 - 00:46:04
+89,Polverigi,Francesco Acquaroli,958,0,0,46.19,4,30/09/2025 - 00:46:04
+89,Polverigi,Beatrice Marinelli,23,0,0,1.11,4,30/09/2025 - 00:46:04
+89,Polverigi,Francesco Gerardi,21,0,0,1.01,4,30/09/2025 - 00:46:04
+89,Polverigi,Claudio Bolletta,20,0,0,0.96,4,30/09/2025 - 00:46:04
+89,Polverigi,Lidia Mangani,16,0,0,0.77,4,30/09/2025 - 00:46:04
+90,Rosora,Francesco Acquaroli,398,0,0,51.55,2,30/09/2025 - 00:46:04
+90,Rosora,Matteo Ricci,347,0,0,44.95,2,30/09/2025 - 00:46:04
+90,Rosora,Beatrice Marinelli,13,0,0,1.68,2,30/09/2025 - 00:46:04
+90,Rosora,Claudio Bolletta,5,0,0,0.65,2,30/09/2025 - 00:46:04
+90,Rosora,Francesco Gerardi,5,0,0,0.65,2,30/09/2025 - 00:46:04
+90,Rosora,Lidia Mangani,4,0,0,0.52,2,30/09/2025 - 00:46:04
+91,San Marcello,Matteo Ricci,493,0,0,50.41,2,30/09/2025 - 00:46:04
+91,San Marcello,Francesco Acquaroli,436,0,0,44.58,2,30/09/2025 - 00:46:04
+91,San Marcello,Lidia Mangani,17,0,0,1.74,2,30/09/2025 - 00:46:04
+91,San Marcello,Claudio Bolletta,13,0,0,1.33,2,30/09/2025 - 00:46:04
+91,San Marcello,Beatrice Marinelli,10,0,0,1.02,2,30/09/2025 - 00:46:04
+91,San Marcello,Francesco Gerardi,9,0,0,0.92,2,30/09/2025 - 00:46:04
+92,San Paolo Di Jesi,Matteo Ricci,184,0,0,48.29,1,30/09/2025 - 00:46:04
+92,San Paolo Di Jesi,Francesco Acquaroli,176,0,0,46.19,1,30/09/2025 - 00:46:04
+92,San Paolo Di Jesi,Beatrice Marinelli,8,0,0,2.1,1,30/09/2025 - 00:46:04
+92,San Paolo Di Jesi,Lidia Mangani,7,0,0,1.84,1,30/09/2025 - 00:46:04
+92,San Paolo Di Jesi,Claudio Bolletta,3,0,0,0.79,1,30/09/2025 - 00:46:04
+92,San Paolo Di Jesi,Francesco Gerardi,3,0,0,0.79,1,30/09/2025 - 00:46:04
+93,Santa Maria Nuova,Francesco Acquaroli,818,0,0,48.63,4,30/09/2025 - 00:46:04
+93,Santa Maria Nuova,Matteo Ricci,807,0,0,47.98,4,30/09/2025 - 00:46:04
+93,Santa Maria Nuova,Lidia Mangani,24,0,0,1.43,4,30/09/2025 - 00:46:04
+93,Santa Maria Nuova,Francesco Gerardi,14,0,0,0.83,4,30/09/2025 - 00:46:04
+93,Santa Maria Nuova,Beatrice Marinelli,11,0,0,0.65,4,30/09/2025 - 00:46:04
+93,Santa Maria Nuova,Claudio Bolletta,8,0,0,0.48,4,30/09/2025 - 00:46:04
+94,Sassoferrato,Francesco Acquaroli,1500,0,0,53.1,9,30/09/2025 - 00:46:04
+94,Sassoferrato,Matteo Ricci,1207,0,0,42.73,9,30/09/2025 - 00:46:04
+94,Sassoferrato,Francesco Gerardi,42,0,0,1.49,9,30/09/2025 - 00:46:04
+94,Sassoferrato,Lidia Mangani,30,0,0,1.06,9,30/09/2025 - 00:46:04
+94,Sassoferrato,Beatrice Marinelli,27,0,0,0.96,9,30/09/2025 - 00:46:04
+94,Sassoferrato,Claudio Bolletta,19,0,0,0.67,9,30/09/2025 - 00:46:04
+95,Senigallia,Matteo Ricci,11245,0,0,54.69,43,30/09/2025 - 00:46:04
+95,Senigallia,Francesco Acquaroli,8671,0,0,42.17,43,30/09/2025 - 00:46:04
+95,Senigallia,Lidia Mangani,216,0,0,1.05,43,30/09/2025 - 00:46:04
+95,Senigallia,Beatrice Marinelli,173,0,0,0.84,43,30/09/2025 - 00:46:04
+95,Senigallia,Claudio Bolletta,140,0,0,0.68,43,30/09/2025 - 00:46:04
+95,Senigallia,Francesco Gerardi,118,0,0,0.57,43,30/09/2025 - 00:46:04
+96,Serra De' Conti,Matteo Ricci,752,0,0,50.71,4,30/09/2025 - 00:46:04
+96,Serra De' Conti,Francesco Acquaroli,654,0,0,44.1,4,30/09/2025 - 00:46:04
+96,Serra De' Conti,Francesco Gerardi,27,0,0,1.82,4,30/09/2025 - 00:46:04
+96,Serra De' Conti,Beatrice Marinelli,22,0,0,1.48,4,30/09/2025 - 00:46:04
+96,Serra De' Conti,Lidia Mangani,19,0,0,1.28,4,30/09/2025 - 00:46:04
+96,Serra De' Conti,Claudio Bolletta,9,0,0,0.61,4,30/09/2025 - 00:46:04
+97,Serra San Quirico,Francesco Acquaroli,570,0,0,50.18,5,30/09/2025 - 00:46:04
+97,Serra San Quirico,Matteo Ricci,520,0,0,45.77,5,30/09/2025 - 00:46:04
+97,Serra San Quirico,Lidia Mangani,22,0,0,1.94,5,30/09/2025 - 00:46:04
+97,Serra San Quirico,Beatrice Marinelli,12,0,0,1.06,5,30/09/2025 - 00:46:04
+97,Serra San Quirico,Claudio Bolletta,6,0,0,0.53,5,30/09/2025 - 00:46:04
+97,Serra San Quirico,Francesco Gerardi,6,0,0,0.53,5,30/09/2025 - 00:46:04
+98,Sirolo,Francesco Acquaroli,936,0,0,48.9,4,30/09/2025 - 00:46:04
+98,Sirolo,Matteo Ricci,923,0,0,48.22,4,30/09/2025 - 00:46:04
+98,Sirolo,Beatrice Marinelli,20,0,0,1.04,4,30/09/2025 - 00:46:04
+98,Sirolo,Francesco Gerardi,14,0,0,0.73,4,30/09/2025 - 00:46:04
+98,Sirolo,Lidia Mangani,11,0,0,0.57,4,30/09/2025 - 00:46:04
+98,Sirolo,Claudio Bolletta,10,0,0,0.52,4,30/09/2025 - 00:46:04
+99,Staffolo,Francesco Acquaroli,524,0,0,57.46,2,30/09/2025 - 00:46:04
+99,Staffolo,Matteo Ricci,361,0,0,39.58,2,30/09/2025 - 00:46:04
+99,Staffolo,Claudio Bolletta,8,0,0,0.88,2,30/09/2025 - 00:46:04
+99,Staffolo,Beatrice Marinelli,8,0,0,0.88,2,30/09/2025 - 00:46:04
+99,Staffolo,Lidia Mangani,8,0,0,0.88,2,30/09/2025 - 00:46:04
+99,Staffolo,Francesco Gerardi,3,0,0,0.33,2,30/09/2025 - 00:46:04
+100,Trecastelli,Francesco Acquaroli,1397,0,0,48.61,6,30/09/2025 - 00:46:04
+100,Trecastelli,Matteo Ricci,1368,0,0,47.6,6,30/09/2025 - 00:46:04
+100,Trecastelli,Francesco Gerardi,36,0,0,1.25,6,30/09/2025 - 00:46:04
+100,Trecastelli,Lidia Mangani,32,0,0,1.11,6,30/09/2025 - 00:46:04
+100,Trecastelli,Beatrice Marinelli,24,0,0,0.84,6,30/09/2025 - 00:46:04
+100,Trecastelli,Claudio Bolletta,17,0,0,0.59,6,30/09/2025 - 00:46:04
+101,Apiro,Francesco Acquaroli,533,0,0,56.88,2,30/09/2025 - 00:46:04
+101,Apiro,Matteo Ricci,373,0,0,39.81,2,30/09/2025 - 00:46:04
+101,Apiro,Lidia Mangani,12,0,0,1.28,2,30/09/2025 - 00:46:04
+101,Apiro,Claudio Bolletta,8,0,0,0.85,2,30/09/2025 - 00:46:04
+101,Apiro,Beatrice Marinelli,6,0,0,0.64,2,30/09/2025 - 00:46:04
+101,Apiro,Francesco Gerardi,5,0,0,0.53,2,30/09/2025 - 00:46:04
+102,Appignano,Francesco Acquaroli,948,0,0,50.35,4,30/09/2025 - 00:46:04
+102,Appignano,Matteo Ricci,880,0,0,46.73,4,30/09/2025 - 00:46:04
+102,Appignano,Claudio Bolletta,21,0,0,1.12,4,30/09/2025 - 00:46:04
+102,Appignano,Lidia Mangani,16,0,0,0.85,4,30/09/2025 - 00:46:04
+102,Appignano,Beatrice Marinelli,14,0,0,0.74,4,30/09/2025 - 00:46:04
+102,Appignano,Francesco Gerardi,4,0,0,0.21,4,30/09/2025 - 00:46:04
+103,Belforte Del Chienti,Francesco Acquaroli,484,0,0,56.74,2,30/09/2025 - 00:46:04
+103,Belforte Del Chienti,Matteo Ricci,321,0,0,37.63,2,30/09/2025 - 00:46:04
+103,Belforte Del Chienti,Beatrice Marinelli,26,0,0,3.05,2,30/09/2025 - 00:46:04
+103,Belforte Del Chienti,Lidia Mangani,12,0,0,1.41,2,30/09/2025 - 00:46:04
+103,Belforte Del Chienti,Claudio Bolletta,6,0,0,0.7,2,30/09/2025 - 00:46:04
+103,Belforte Del Chienti,Francesco Gerardi,4,0,0,0.47,2,30/09/2025 - 00:46:04
+104,Bolognola,Francesco Acquaroli,66,0,0,83.54,1,30/09/2025 - 00:46:04
+104,Bolognola,Matteo Ricci,12,0,0,15.19,1,30/09/2025 - 00:46:04
+104,Bolognola,Lidia Mangani,1,0,0,1.27,1,30/09/2025 - 00:46:04
+104,Bolognola,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+104,Bolognola,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+104,Bolognola,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+105,Caldarola,Francesco Acquaroli,443,0,0,56.08,2,30/09/2025 - 00:46:04
+105,Caldarola,Matteo Ricci,313,0,0,39.62,2,30/09/2025 - 00:46:04
+105,Caldarola,Beatrice Marinelli,15,0,0,1.9,2,30/09/2025 - 00:46:04
+105,Caldarola,Lidia Mangani,12,0,0,1.52,2,30/09/2025 - 00:46:04
+105,Caldarola,Francesco Gerardi,4,0,0,0.51,2,30/09/2025 - 00:46:04
+105,Caldarola,Claudio Bolletta,3,0,0,0.38,2,30/09/2025 - 00:46:04
+106,Camerino,Francesco Acquaroli,1881,0,0,61.73,8,30/09/2025 - 00:46:04
+106,Camerino,Matteo Ricci,1096,0,0,35.97,8,30/09/2025 - 00:46:04
+106,Camerino,Lidia Mangani,26,0,0,0.85,8,30/09/2025 - 00:46:04
+106,Camerino,Claudio Bolletta,22,0,0,0.72,8,30/09/2025 - 00:46:04
+106,Camerino,Beatrice Marinelli,16,0,0,0.53,8,30/09/2025 - 00:46:04
+106,Camerino,Francesco Gerardi,6,0,0,0.2,8,30/09/2025 - 00:46:04
+107,Camporotondo Di Fiastrone,Francesco Acquaroli,125,0,0,57.6,1,30/09/2025 - 00:46:04
+107,Camporotondo Di Fiastrone,Matteo Ricci,83,0,0,38.25,1,30/09/2025 - 00:46:04
+107,Camporotondo Di Fiastrone,Beatrice Marinelli,4,0,0,1.84,1,30/09/2025 - 00:46:04
+107,Camporotondo Di Fiastrone,Claudio Bolletta,4,0,0,1.84,1,30/09/2025 - 00:46:04
+107,Camporotondo Di Fiastrone,Lidia Mangani,1,0,0,0.46,1,30/09/2025 - 00:46:04
+107,Camporotondo Di Fiastrone,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+108,Castelraimondo,Francesco Acquaroli,1576,0,0,71.44,4,30/09/2025 - 00:46:04
+108,Castelraimondo,Matteo Ricci,574,0,0,26.02,4,30/09/2025 - 00:46:04
+108,Castelraimondo,Beatrice Marinelli,24,0,0,1.09,4,30/09/2025 - 00:46:04
+108,Castelraimondo,Lidia Mangani,14,0,0,0.63,4,30/09/2025 - 00:46:04
+108,Castelraimondo,Claudio Bolletta,11,0,0,0.5,4,30/09/2025 - 00:46:04
+108,Castelraimondo,Francesco Gerardi,7,0,0,0.32,4,30/09/2025 - 00:46:04
+109,Castelsantangelo Sul Nera,Francesco Acquaroli,82,0,0,81.19,1,30/09/2025 - 00:46:04
+109,Castelsantangelo Sul Nera,Matteo Ricci,17,0,0,16.83,1,30/09/2025 - 00:46:04
+109,Castelsantangelo Sul Nera,Lidia Mangani,1,0,0,0.99,1,30/09/2025 - 00:46:04
+109,Castelsantangelo Sul Nera,Francesco Gerardi,1,0,0,0.99,1,30/09/2025 - 00:46:04
+109,Castelsantangelo Sul Nera,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+109,Castelsantangelo Sul Nera,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+110,Cessapalombo,Francesco Acquaroli,172,0,0,83.5,1,30/09/2025 - 00:46:04
+110,Cessapalombo,Matteo Ricci,25,0,0,12.14,1,30/09/2025 - 00:46:04
+110,Cessapalombo,Beatrice Marinelli,4,0,0,1.94,1,30/09/2025 - 00:46:04
+110,Cessapalombo,Francesco Gerardi,3,0,0,1.46,1,30/09/2025 - 00:46:04
+110,Cessapalombo,Lidia Mangani,2,0,0,0.97,1,30/09/2025 - 00:46:04
+110,Cessapalombo,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+111,Cingoli,Francesco Acquaroli,3174,0,0,71.36,9,30/09/2025 - 00:46:04
+111,Cingoli,Matteo Ricci,1157,0,0,26.01,9,30/09/2025 - 00:46:04
+111,Cingoli,Beatrice Marinelli,54,0,0,1.21,9,30/09/2025 - 00:46:04
+111,Cingoli,Lidia Mangani,24,0,0,0.54,9,30/09/2025 - 00:46:04
+111,Cingoli,Francesco Gerardi,21,0,0,0.47,9,30/09/2025 - 00:46:04
+111,Cingoli,Claudio Bolletta,18,0,0,0.4,9,30/09/2025 - 00:46:04
+112,Civitanova Marche,Francesco Acquaroli,9734,0,0,55.02,40,30/09/2025 - 00:46:04
+112,Civitanova Marche,Matteo Ricci,7284,0,0,41.17,40,30/09/2025 - 00:46:04
+112,Civitanova Marche,Beatrice Marinelli,296,0,0,1.67,40,30/09/2025 - 00:46:04
+112,Civitanova Marche,Claudio Bolletta,147,0,0,0.83,40,30/09/2025 - 00:46:04
+112,Civitanova Marche,Francesco Gerardi,119,0,0,0.67,40,30/09/2025 - 00:46:04
+112,Civitanova Marche,Lidia Mangani,111,0,0,0.63,40,30/09/2025 - 00:46:04
+113,Colmurano,Francesco Acquaroli,292,0,0,56.15,2,30/09/2025 - 00:46:04
+113,Colmurano,Matteo Ricci,215,0,0,41.35,2,30/09/2025 - 00:46:04
+113,Colmurano,Lidia Mangani,7,0,0,1.35,2,30/09/2025 - 00:46:04
+113,Colmurano,Beatrice Marinelli,3,0,0,0.58,2,30/09/2025 - 00:46:04
+113,Colmurano,Claudio Bolletta,2,0,0,0.38,2,30/09/2025 - 00:46:04
+113,Colmurano,Francesco Gerardi,1,0,0,0.19,2,30/09/2025 - 00:46:04
+114,Corridonia,Francesco Acquaroli,3568,0,0,59.63,15,30/09/2025 - 00:46:04
+114,Corridonia,Matteo Ricci,2195,0,0,36.68,15,30/09/2025 - 00:46:04
+114,Corridonia,Beatrice Marinelli,72,0,0,1.2,15,30/09/2025 - 00:46:04
+114,Corridonia,Claudio Bolletta,66,0,0,1.1,15,30/09/2025 - 00:46:04
+114,Corridonia,Lidia Mangani,46,0,0,0.77,15,30/09/2025 - 00:46:04
+114,Corridonia,Francesco Gerardi,37,0,0,0.62,15,30/09/2025 - 00:46:04
+115,Esanatoglia,Francesco Acquaroli,501,0,0,56.74,2,30/09/2025 - 00:46:04
+115,Esanatoglia,Matteo Ricci,334,0,0,37.83,2,30/09/2025 - 00:46:04
+115,Esanatoglia,Lidia Mangani,35,0,0,3.96,2,30/09/2025 - 00:46:04
+115,Esanatoglia,Beatrice Marinelli,7,0,0,0.79,2,30/09/2025 - 00:46:04
+115,Esanatoglia,Claudio Bolletta,6,0,0,0.68,2,30/09/2025 - 00:46:04
+115,Esanatoglia,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+116,Fiastra,Francesco Acquaroli,155,0,0,56.36,2,30/09/2025 - 00:46:04
+116,Fiastra,Matteo Ricci,100,0,0,36.36,2,30/09/2025 - 00:46:04
+116,Fiastra,Lidia Mangani,16,0,0,5.82,2,30/09/2025 - 00:46:04
+116,Fiastra,Beatrice Marinelli,4,0,0,1.45,2,30/09/2025 - 00:46:04
+116,Fiastra,Claudio Bolletta,0,0,0,0.0,2,30/09/2025 - 00:46:04
+116,Fiastra,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+117,Fiuminata,Francesco Acquaroli,402,0,0,64.53,2,30/09/2025 - 00:46:04
+117,Fiuminata,Matteo Ricci,198,0,0,31.78,2,30/09/2025 - 00:46:04
+117,Fiuminata,Claudio Bolletta,11,0,0,1.77,2,30/09/2025 - 00:46:04
+117,Fiuminata,Beatrice Marinelli,7,0,0,1.12,2,30/09/2025 - 00:46:04
+117,Fiuminata,Lidia Mangani,4,0,0,0.64,2,30/09/2025 - 00:46:04
+117,Fiuminata,Francesco Gerardi,1,0,0,0.16,2,30/09/2025 - 00:46:04
+118,Gagliole,Francesco Acquaroli,137,0,0,53.31,1,30/09/2025 - 00:46:04
+118,Gagliole,Matteo Ricci,110,0,0,42.8,1,30/09/2025 - 00:46:04
+118,Gagliole,Lidia Mangani,3,0,0,1.17,1,30/09/2025 - 00:46:04
+118,Gagliole,Claudio Bolletta,3,0,0,1.17,1,30/09/2025 - 00:46:04
+118,Gagliole,Francesco Gerardi,3,0,0,1.17,1,30/09/2025 - 00:46:04
+118,Gagliole,Beatrice Marinelli,1,0,0,0.39,1,30/09/2025 - 00:46:04
+119,Gualdo,Francesco Acquaroli,238,0,0,73.91,1,30/09/2025 - 00:46:04
+119,Gualdo,Matteo Ricci,78,0,0,24.22,1,30/09/2025 - 00:46:04
+119,Gualdo,Claudio Bolletta,3,0,0,0.93,1,30/09/2025 - 00:46:04
+119,Gualdo,Lidia Mangani,2,0,0,0.62,1,30/09/2025 - 00:46:04
+119,Gualdo,Beatrice Marinelli,1,0,0,0.31,1,30/09/2025 - 00:46:04
+119,Gualdo,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+120,Loro Piceno,Francesco Acquaroli,531,0,0,55.66,3,30/09/2025 - 00:46:04
+120,Loro Piceno,Matteo Ricci,388,0,0,40.67,3,30/09/2025 - 00:46:04
+120,Loro Piceno,Beatrice Marinelli,12,0,0,1.26,3,30/09/2025 - 00:46:04
+120,Loro Piceno,Lidia Mangani,10,0,0,1.05,3,30/09/2025 - 00:46:04
+120,Loro Piceno,Francesco Gerardi,7,0,0,0.73,3,30/09/2025 - 00:46:04
+120,Loro Piceno,Claudio Bolletta,6,0,0,0.63,3,30/09/2025 - 00:46:04
+121,Macerata,Francesco Acquaroli,9129,0,0,50.38,44,30/09/2025 - 00:46:04
+121,Macerata,Matteo Ricci,8343,0,0,46.04,44,30/09/2025 - 00:46:04
+121,Macerata,Beatrice Marinelli,199,0,0,1.1,44,30/09/2025 - 00:46:04
+121,Macerata,Claudio Bolletta,183,0,0,1.01,44,30/09/2025 - 00:46:04
+121,Macerata,Lidia Mangani,179,0,0,0.99,44,30/09/2025 - 00:46:04
+121,Macerata,Francesco Gerardi,88,0,0,0.49,44,30/09/2025 - 00:46:04
+122,Matelica,Francesco Acquaroli,2262,0,0,56.09,10,30/09/2025 - 00:46:04
+122,Matelica,Matteo Ricci,1615,0,0,40.04,10,30/09/2025 - 00:46:04
+122,Matelica,Claudio Bolletta,71,0,0,1.76,10,30/09/2025 - 00:46:04
+122,Matelica,Francesco Gerardi,30,0,0,0.74,10,30/09/2025 - 00:46:04
+122,Matelica,Lidia Mangani,29,0,0,0.72,10,30/09/2025 - 00:46:04
+122,Matelica,Beatrice Marinelli,26,0,0,0.64,10,30/09/2025 - 00:46:04
+123,Mogliano,Francesco Acquaroli,1414,0,0,67.08,5,30/09/2025 - 00:46:04
+123,Mogliano,Matteo Ricci,639,0,0,30.31,5,30/09/2025 - 00:46:04
+123,Mogliano,Beatrice Marinelli,29,0,0,1.38,5,30/09/2025 - 00:46:04
+123,Mogliano,Claudio Bolletta,10,0,0,0.47,5,30/09/2025 - 00:46:04
+123,Mogliano,Lidia Mangani,8,0,0,0.38,5,30/09/2025 - 00:46:04
+123,Mogliano,Francesco Gerardi,8,0,0,0.38,5,30/09/2025 - 00:46:04
+124,Montecassiano,Francesco Acquaroli,1721,0,0,51.59,7,30/09/2025 - 00:46:04
+124,Montecassiano,Matteo Ricci,1536,0,0,46.04,7,30/09/2025 - 00:46:04
+124,Montecassiano,Beatrice Marinelli,31,0,0,0.93,7,30/09/2025 - 00:46:04
+124,Montecassiano,Claudio Bolletta,22,0,0,0.66,7,30/09/2025 - 00:46:04
+124,Montecassiano,Lidia Mangani,14,0,0,0.42,7,30/09/2025 - 00:46:04
+124,Montecassiano,Francesco Gerardi,12,0,0,0.36,7,30/09/2025 - 00:46:04
+125,Monte Cavallo,Francesco Acquaroli,50,0,0,90.91,1,30/09/2025 - 00:46:04
+125,Monte Cavallo,Matteo Ricci,3,0,0,5.45,1,30/09/2025 - 00:46:04
+125,Monte Cavallo,Beatrice Marinelli,1,0,0,1.82,1,30/09/2025 - 00:46:04
+125,Monte Cavallo,Claudio Bolletta,1,0,0,1.82,1,30/09/2025 - 00:46:04
+125,Monte Cavallo,Lidia Mangani,0,0,0,0.0,1,30/09/2025 - 00:46:04
+125,Monte Cavallo,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+126,Montecosaro,Francesco Acquaroli,1525,0,0,53.3,5,30/09/2025 - 00:46:04
+126,Montecosaro,Matteo Ricci,1186,0,0,41.45,5,30/09/2025 - 00:46:04
+126,Montecosaro,Beatrice Marinelli,64,0,0,2.24,5,30/09/2025 - 00:46:04
+126,Montecosaro,Claudio Bolletta,44,0,0,1.54,5,30/09/2025 - 00:46:04
+126,Montecosaro,Lidia Mangani,26,0,0,0.91,5,30/09/2025 - 00:46:04
+126,Montecosaro,Francesco Gerardi,16,0,0,0.56,5,30/09/2025 - 00:46:04
+127,Montefano,Francesco Acquaroli,733,0,0,52.25,4,30/09/2025 - 00:46:04
+127,Montefano,Matteo Ricci,621,0,0,44.26,4,30/09/2025 - 00:46:04
+127,Montefano,Beatrice Marinelli,28,0,0,2.0,4,30/09/2025 - 00:46:04
+127,Montefano,Lidia Mangani,10,0,0,0.71,4,30/09/2025 - 00:46:04
+127,Montefano,Claudio Bolletta,6,0,0,0.43,4,30/09/2025 - 00:46:04
+127,Montefano,Francesco Gerardi,5,0,0,0.36,4,30/09/2025 - 00:46:04
+128,Montelupone,Francesco Acquaroli,1023,0,0,68.61,3,30/09/2025 - 00:46:04
+128,Montelupone,Matteo Ricci,427,0,0,28.64,3,30/09/2025 - 00:46:04
+128,Montelupone,Beatrice Marinelli,13,0,0,0.87,3,30/09/2025 - 00:46:04
+128,Montelupone,Lidia Mangani,12,0,0,0.8,3,30/09/2025 - 00:46:04
+128,Montelupone,Claudio Bolletta,10,0,0,0.67,3,30/09/2025 - 00:46:04
+128,Montelupone,Francesco Gerardi,6,0,0,0.4,3,30/09/2025 - 00:46:04
+129,Monte San Giusto,Francesco Acquaroli,1969,0,0,66.66,7,30/09/2025 - 00:46:04
+129,Monte San Giusto,Matteo Ricci,915,0,0,30.97,7,30/09/2025 - 00:46:04
+129,Monte San Giusto,Beatrice Marinelli,32,0,0,1.08,7,30/09/2025 - 00:46:04
+129,Monte San Giusto,Claudio Bolletta,14,0,0,0.47,7,30/09/2025 - 00:46:04
+129,Monte San Giusto,Lidia Mangani,12,0,0,0.41,7,30/09/2025 - 00:46:04
+129,Monte San Giusto,Francesco Gerardi,12,0,0,0.41,7,30/09/2025 - 00:46:04
+130,Monte San Martino,Francesco Acquaroli,225,0,0,63.56,1,30/09/2025 - 00:46:04
+130,Monte San Martino,Matteo Ricci,120,0,0,33.9,1,30/09/2025 - 00:46:04
+130,Monte San Martino,Beatrice Marinelli,4,0,0,1.13,1,30/09/2025 - 00:46:04
+130,Monte San Martino,Lidia Mangani,2,0,0,0.56,1,30/09/2025 - 00:46:04
+130,Monte San Martino,Francesco Gerardi,2,0,0,0.56,1,30/09/2025 - 00:46:04
+130,Monte San Martino,Claudio Bolletta,1,0,0,0.28,1,30/09/2025 - 00:46:04
+131,Morrovalle,Francesco Acquaroli,2542,0,0,60.97,9,30/09/2025 - 00:46:04
+131,Morrovalle,Matteo Ricci,1482,0,0,35.55,9,30/09/2025 - 00:46:04
+131,Morrovalle,Beatrice Marinelli,46,0,0,1.1,9,30/09/2025 - 00:46:04
+131,Morrovalle,Lidia Mangani,41,0,0,0.98,9,30/09/2025 - 00:46:04
+131,Morrovalle,Claudio Bolletta,33,0,0,0.79,9,30/09/2025 - 00:46:04
+131,Morrovalle,Francesco Gerardi,25,0,0,0.6,9,30/09/2025 - 00:46:04
+132,Muccia,Francesco Acquaroli,253,0,0,68.19,1,30/09/2025 - 00:46:04
+132,Muccia,Matteo Ricci,107,0,0,28.84,1,30/09/2025 - 00:46:04
+132,Muccia,Claudio Bolletta,6,0,0,1.62,1,30/09/2025 - 00:46:04
+132,Muccia,Lidia Mangani,2,0,0,0.54,1,30/09/2025 - 00:46:04
+132,Muccia,Francesco Gerardi,2,0,0,0.54,1,30/09/2025 - 00:46:04
+132,Muccia,Beatrice Marinelli,1,0,0,0.27,1,30/09/2025 - 00:46:04
+133,Penna San Giovanni,Francesco Acquaroli,206,0,0,63.19,1,30/09/2025 - 00:46:04
+133,Penna San Giovanni,Matteo Ricci,96,0,0,29.45,1,30/09/2025 - 00:46:04
+133,Penna San Giovanni,Claudio Bolletta,10,0,0,3.07,1,30/09/2025 - 00:46:04
+133,Penna San Giovanni,Beatrice Marinelli,7,0,0,2.15,1,30/09/2025 - 00:46:04
+133,Penna San Giovanni,Francesco Gerardi,4,0,0,1.23,1,30/09/2025 - 00:46:04
+133,Penna San Giovanni,Lidia Mangani,3,0,0,0.92,1,30/09/2025 - 00:46:04
+134,Petriolo,Francesco Acquaroli,434,0,0,51.3,2,30/09/2025 - 00:46:04
+134,Petriolo,Matteo Ricci,384,0,0,45.39,2,30/09/2025 - 00:46:04
+134,Petriolo,Claudio Bolletta,13,0,0,1.54,2,30/09/2025 - 00:46:04
+134,Petriolo,Francesco Gerardi,8,0,0,0.95,2,30/09/2025 - 00:46:04
+134,Petriolo,Beatrice Marinelli,4,0,0,0.47,2,30/09/2025 - 00:46:04
+134,Petriolo,Lidia Mangani,3,0,0,0.35,2,30/09/2025 - 00:46:04
+135,Pieve Torina,Francesco Acquaroli,479,0,0,80.37,2,30/09/2025 - 00:46:04
+135,Pieve Torina,Matteo Ricci,110,0,0,18.46,2,30/09/2025 - 00:46:04
+135,Pieve Torina,Claudio Bolletta,3,0,0,0.5,2,30/09/2025 - 00:46:04
+135,Pieve Torina,Francesco Gerardi,2,0,0,0.34,2,30/09/2025 - 00:46:04
+135,Pieve Torina,Beatrice Marinelli,1,0,0,0.17,2,30/09/2025 - 00:46:04
+135,Pieve Torina,Lidia Mangani,1,0,0,0.17,2,30/09/2025 - 00:46:04
+136,Pioraco,Francesco Acquaroli,256,0,0,64.48,1,30/09/2025 - 00:46:04
+136,Pioraco,Matteo Ricci,130,0,0,32.75,1,30/09/2025 - 00:46:04
+136,Pioraco,Francesco Gerardi,5,0,0,1.26,1,30/09/2025 - 00:46:04
+136,Pioraco,Lidia Mangani,3,0,0,0.76,1,30/09/2025 - 00:46:04
+136,Pioraco,Beatrice Marinelli,2,0,0,0.5,1,30/09/2025 - 00:46:04
+136,Pioraco,Claudio Bolletta,1,0,0,0.25,1,30/09/2025 - 00:46:04
+137,Poggio San Vicino,Francesco Acquaroli,47,0,0,51.09,1,30/09/2025 - 00:46:04
+137,Poggio San Vicino,Matteo Ricci,43,0,0,46.74,1,30/09/2025 - 00:46:04
+137,Poggio San Vicino,Beatrice Marinelli,1,0,0,1.09,1,30/09/2025 - 00:46:04
+137,Poggio San Vicino,Claudio Bolletta,1,0,0,1.09,1,30/09/2025 - 00:46:04
+137,Poggio San Vicino,Lidia Mangani,0,0,0,0.0,1,30/09/2025 - 00:46:04
+137,Poggio San Vicino,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+138,Pollenza,Francesco Acquaroli,1351,0,0,49.47,5,30/09/2025 - 00:46:04
+138,Pollenza,Matteo Ricci,1277,0,0,46.76,5,30/09/2025 - 00:46:04
+138,Pollenza,Beatrice Marinelli,37,0,0,1.35,5,30/09/2025 - 00:46:04
+138,Pollenza,Claudio Bolletta,27,0,0,0.99,5,30/09/2025 - 00:46:04
+138,Pollenza,Lidia Mangani,22,0,0,0.81,5,30/09/2025 - 00:46:04
+138,Pollenza,Francesco Gerardi,17,0,0,0.62,5,30/09/2025 - 00:46:04
+139,Porto Recanati,Francesco Acquaroli,2736,0,0,57.02,10,30/09/2025 - 00:46:04
+139,Porto Recanati,Matteo Ricci,1905,0,0,39.7,10,30/09/2025 - 00:46:04
+139,Porto Recanati,Claudio Bolletta,58,0,0,1.21,10,30/09/2025 - 00:46:04
+139,Porto Recanati,Beatrice Marinelli,45,0,0,0.94,10,30/09/2025 - 00:46:04
+139,Porto Recanati,Francesco Gerardi,29,0,0,0.6,10,30/09/2025 - 00:46:04
+139,Porto Recanati,Lidia Mangani,25,0,0,0.52,10,30/09/2025 - 00:46:04
+140,Potenza Picena,Francesco Acquaroli,4162,0,0,58.39,15,30/09/2025 - 00:46:04
+140,Potenza Picena,Matteo Ricci,2737,0,0,38.4,15,30/09/2025 - 00:46:04
+140,Potenza Picena,Beatrice Marinelli,76,0,0,1.07,15,30/09/2025 - 00:46:04
+140,Potenza Picena,Claudio Bolletta,68,0,0,0.95,15,30/09/2025 - 00:46:04
+140,Potenza Picena,Lidia Mangani,52,0,0,0.73,15,30/09/2025 - 00:46:04
+140,Potenza Picena,Francesco Gerardi,33,0,0,0.46,15,30/09/2025 - 00:46:04
+141,Recanati,Francesco Acquaroli,4690,0,0,51.85,19,30/09/2025 - 00:46:04
+141,Recanati,Matteo Ricci,4058,0,0,44.86,19,30/09/2025 - 00:46:04
+141,Recanati,Beatrice Marinelli,128,0,0,1.41,19,30/09/2025 - 00:46:04
+141,Recanati,Claudio Bolletta,79,0,0,0.87,19,30/09/2025 - 00:46:04
+141,Recanati,Lidia Mangani,53,0,0,0.59,19,30/09/2025 - 00:46:04
+141,Recanati,Francesco Gerardi,38,0,0,0.42,19,30/09/2025 - 00:46:04
+142,Ripe San Ginesio,Francesco Acquaroli,326,0,0,77.07,1,30/09/2025 - 00:46:04
+142,Ripe San Ginesio,Matteo Ricci,83,0,0,19.62,1,30/09/2025 - 00:46:04
+142,Ripe San Ginesio,Claudio Bolletta,9,0,0,2.13,1,30/09/2025 - 00:46:04
+142,Ripe San Ginesio,Lidia Mangani,4,0,0,0.95,1,30/09/2025 - 00:46:04
+142,Ripe San Ginesio,Francesco Gerardi,1,0,0,0.24,1,30/09/2025 - 00:46:04
+142,Ripe San Ginesio,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+143,San Ginesio,Francesco Acquaroli,912,0,0,66.86,4,30/09/2025 - 00:46:04
+143,San Ginesio,Matteo Ricci,408,0,0,29.91,4,30/09/2025 - 00:46:04
+143,San Ginesio,Beatrice Marinelli,13,0,0,0.95,4,30/09/2025 - 00:46:04
+143,San Ginesio,Lidia Mangani,13,0,0,0.95,4,30/09/2025 - 00:46:04
+143,San Ginesio,Claudio Bolletta,10,0,0,0.73,4,30/09/2025 - 00:46:04
+143,San Ginesio,Francesco Gerardi,8,0,0,0.59,4,30/09/2025 - 00:46:04
+144,San Severino Marche,Francesco Acquaroli,3496,0,0,65.8,13,30/09/2025 - 00:46:04
+144,San Severino Marche,Matteo Ricci,1645,0,0,30.96,13,30/09/2025 - 00:46:04
+144,San Severino Marche,Beatrice Marinelli,58,0,0,1.09,13,30/09/2025 - 00:46:04
+144,San Severino Marche,Lidia Mangani,39,0,0,0.73,13,30/09/2025 - 00:46:04
+144,San Severino Marche,Francesco Gerardi,38,0,0,0.72,13,30/09/2025 - 00:46:04
+144,San Severino Marche,Claudio Bolletta,37,0,0,0.7,13,30/09/2025 - 00:46:04
+145,Sant'Angelo In Pontano,Francesco Acquaroli,361,0,0,61.5,2,30/09/2025 - 00:46:04
+145,Sant'Angelo In Pontano,Matteo Ricci,204,0,0,34.75,2,30/09/2025 - 00:46:04
+145,Sant'Angelo In Pontano,Francesco Gerardi,7,0,0,1.19,2,30/09/2025 - 00:46:04
+145,Sant'Angelo In Pontano,Beatrice Marinelli,6,0,0,1.02,2,30/09/2025 - 00:46:04
+145,Sant'Angelo In Pontano,Lidia Mangani,6,0,0,1.02,2,30/09/2025 - 00:46:04
+145,Sant'Angelo In Pontano,Claudio Bolletta,3,0,0,0.51,2,30/09/2025 - 00:46:04
+146,Sarnano,Francesco Acquaroli,937,0,0,69.3,3,30/09/2025 - 00:46:04
+146,Sarnano,Matteo Ricci,378,0,0,27.96,3,30/09/2025 - 00:46:04
+146,Sarnano,Claudio Bolletta,14,0,0,1.04,3,30/09/2025 - 00:46:04
+146,Sarnano,Beatrice Marinelli,9,0,0,0.67,3,30/09/2025 - 00:46:04
+146,Sarnano,Lidia Mangani,9,0,0,0.67,3,30/09/2025 - 00:46:04
+146,Sarnano,Francesco Gerardi,5,0,0,0.37,3,30/09/2025 - 00:46:04
+147,Sefro,Francesco Acquaroli,114,0,0,64.41,1,30/09/2025 - 00:46:04
+147,Sefro,Matteo Ricci,58,0,0,32.77,1,30/09/2025 - 00:46:04
+147,Sefro,Beatrice Marinelli,3,0,0,1.69,1,30/09/2025 - 00:46:04
+147,Sefro,Claudio Bolletta,2,0,0,1.13,1,30/09/2025 - 00:46:04
+147,Sefro,Lidia Mangani,0,0,0,0.0,1,30/09/2025 - 00:46:04
+147,Sefro,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+148,Serrapetrona,Francesco Acquaroli,246,0,0,56.94,2,30/09/2025 - 00:46:04
+148,Serrapetrona,Matteo Ricci,172,0,0,39.81,2,30/09/2025 - 00:46:04
+148,Serrapetrona,Lidia Mangani,6,0,0,1.39,2,30/09/2025 - 00:46:04
+148,Serrapetrona,Claudio Bolletta,4,0,0,0.93,2,30/09/2025 - 00:46:04
+148,Serrapetrona,Beatrice Marinelli,3,0,0,0.69,2,30/09/2025 - 00:46:04
+148,Serrapetrona,Francesco Gerardi,1,0,0,0.23,2,30/09/2025 - 00:46:04
+149,Serravalle Di Chienti,Francesco Acquaroli,246,0,0,67.4,2,30/09/2025 - 00:46:04
+149,Serravalle Di Chienti,Matteo Ricci,113,0,0,30.96,2,30/09/2025 - 00:46:04
+149,Serravalle Di Chienti,Francesco Gerardi,3,0,0,0.82,2,30/09/2025 - 00:46:04
+149,Serravalle Di Chienti,Beatrice Marinelli,2,0,0,0.55,2,30/09/2025 - 00:46:04
+149,Serravalle Di Chienti,Lidia Mangani,1,0,0,0.27,2,30/09/2025 - 00:46:04
+149,Serravalle Di Chienti,Claudio Bolletta,0,0,0,0.0,2,30/09/2025 - 00:46:04
+150,Tolentino,Francesco Acquaroli,4538,0,0,56.57,19,30/09/2025 - 00:46:04
+150,Tolentino,Matteo Ricci,3161,0,0,39.4,19,30/09/2025 - 00:46:04
+150,Tolentino,Beatrice Marinelli,126,0,0,1.57,19,30/09/2025 - 00:46:04
+150,Tolentino,Lidia Mangani,101,0,0,1.26,19,30/09/2025 - 00:46:04
+150,Tolentino,Claudio Bolletta,67,0,0,0.84,19,30/09/2025 - 00:46:04
+150,Tolentino,Francesco Gerardi,29,0,0,0.36,19,30/09/2025 - 00:46:04
+151,Treia,Francesco Acquaroli,2443,0,0,65.76,10,30/09/2025 - 00:46:04
+151,Treia,Matteo Ricci,1162,0,0,31.28,10,30/09/2025 - 00:46:04
+151,Treia,Beatrice Marinelli,44,0,0,1.18,10,30/09/2025 - 00:46:04
+151,Treia,Claudio Bolletta,27,0,0,0.73,10,30/09/2025 - 00:46:04
+151,Treia,Lidia Mangani,22,0,0,0.59,10,30/09/2025 - 00:46:04
+151,Treia,Francesco Gerardi,17,0,0,0.46,10,30/09/2025 - 00:46:04
+152,Urbisaglia,Francesco Acquaroli,601,0,0,52.63,3,30/09/2025 - 00:46:04
+152,Urbisaglia,Matteo Ricci,488,0,0,42.73,3,30/09/2025 - 00:46:04
+152,Urbisaglia,Beatrice Marinelli,15,0,0,1.31,3,30/09/2025 - 00:46:04
+152,Urbisaglia,Claudio Bolletta,14,0,0,1.23,3,30/09/2025 - 00:46:04
+152,Urbisaglia,Lidia Mangani,12,0,0,1.05,3,30/09/2025 - 00:46:04
+152,Urbisaglia,Francesco Gerardi,12,0,0,1.05,3,30/09/2025 - 00:46:04
+153,Ussita,Francesco Acquaroli,111,0,0,72.55,1,30/09/2025 - 00:46:04
+153,Ussita,Matteo Ricci,41,0,0,26.8,1,30/09/2025 - 00:46:04
+153,Ussita,Beatrice Marinelli,1,0,0,0.65,1,30/09/2025 - 00:46:04
+153,Ussita,Lidia Mangani,0,0,0,0.0,1,30/09/2025 - 00:46:04
+153,Ussita,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+153,Ussita,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+154,Visso,Francesco Acquaroli,334,0,0,70.91,2,30/09/2025 - 00:46:04
+154,Visso,Matteo Ricci,132,0,0,28.03,2,30/09/2025 - 00:46:04
+154,Visso,Claudio Bolletta,2,0,0,0.42,2,30/09/2025 - 00:46:04
+154,Visso,Beatrice Marinelli,1,0,0,0.21,2,30/09/2025 - 00:46:04
+154,Visso,Lidia Mangani,1,0,0,0.21,2,30/09/2025 - 00:46:04
+154,Visso,Francesco Gerardi,1,0,0,0.21,2,30/09/2025 - 00:46:04
+155,Valfornace,Francesco Acquaroli,272,0,0,69.39,2,30/09/2025 - 00:46:04
+155,Valfornace,Matteo Ricci,114,0,0,29.08,2,30/09/2025 - 00:46:04
+155,Valfornace,Claudio Bolletta,3,0,0,0.77,2,30/09/2025 - 00:46:04
+155,Valfornace,Beatrice Marinelli,2,0,0,0.51,2,30/09/2025 - 00:46:04
+155,Valfornace,Francesco Gerardi,1,0,0,0.26,2,30/09/2025 - 00:46:04
+155,Valfornace,Lidia Mangani,0,0,0,0.0,2,30/09/2025 - 00:46:04
+156,Acquasanta Terme,Francesco Acquaroli,732,0,0,68.35,5,30/09/2025 - 00:46:04
+156,Acquasanta Terme,Matteo Ricci,326,0,0,30.44,5,30/09/2025 - 00:46:04
+156,Acquasanta Terme,Claudio Bolletta,7,0,0,0.65,5,30/09/2025 - 00:46:04
+156,Acquasanta Terme,Francesco Gerardi,5,0,0,0.47,5,30/09/2025 - 00:46:04
+156,Acquasanta Terme,Beatrice Marinelli,1,0,0,0.09,5,30/09/2025 - 00:46:04
+157,Acquaviva Picena,Francesco Acquaroli,740,0,0,51.28,3,30/09/2025 - 00:46:04
+157,Acquaviva Picena,Matteo Ricci,654,0,0,45.32,3,30/09/2025 - 00:46:04
+157,Acquaviva Picena,Beatrice Marinelli,32,0,0,2.22,3,30/09/2025 - 00:46:04
+157,Acquaviva Picena,Francesco Gerardi,9,0,0,0.62,3,30/09/2025 - 00:46:04
+157,Acquaviva Picena,Claudio Bolletta,8,0,0,0.55,3,30/09/2025 - 00:46:04
+158,Appignano Del Tronto,Francesco Acquaroli,404,0,0,58.47,2,30/09/2025 - 00:46:04
+158,Appignano Del Tronto,Matteo Ricci,279,0,0,40.38,2,30/09/2025 - 00:46:04
+158,Appignano Del Tronto,Beatrice Marinelli,3,0,0,0.43,2,30/09/2025 - 00:46:04
+158,Appignano Del Tronto,Francesco Gerardi,3,0,0,0.43,2,30/09/2025 - 00:46:04
+158,Appignano Del Tronto,Claudio Bolletta,2,0,0,0.29,2,30/09/2025 - 00:46:04
+159,Arquata Del Tronto,Francesco Acquaroli,272,0,0,62.39,3,30/09/2025 - 00:46:04
+159,Arquata Del Tronto,Matteo Ricci,158,0,0,36.24,3,30/09/2025 - 00:46:04
+159,Arquata Del Tronto,Claudio Bolletta,3,0,0,0.69,3,30/09/2025 - 00:46:04
+159,Arquata Del Tronto,Beatrice Marinelli,2,0,0,0.46,3,30/09/2025 - 00:46:04
+159,Arquata Del Tronto,Francesco Gerardi,1,0,0,0.23,3,30/09/2025 - 00:46:04
+160,Ascoli Piceno,Francesco Acquaroli,12102,0,0,58.26,52,30/09/2025 - 00:46:04
+160,Ascoli Piceno,Matteo Ricci,8309,0,0,40.0,52,30/09/2025 - 00:46:04
+160,Ascoli Piceno,Claudio Bolletta,180,0,0,0.87,52,30/09/2025 - 00:46:04
+160,Ascoli Piceno,Francesco Gerardi,99,0,0,0.48,52,30/09/2025 - 00:46:04
+160,Ascoli Piceno,Beatrice Marinelli,83,0,0,0.4,52,30/09/2025 - 00:46:04
+161,Carassai,Francesco Acquaroli,267,0,0,60.68,2,30/09/2025 - 00:46:04
+161,Carassai,Matteo Ricci,158,0,0,35.91,2,30/09/2025 - 00:46:04
+161,Carassai,Beatrice Marinelli,7,0,0,1.59,2,30/09/2025 - 00:46:04
+161,Carassai,Francesco Gerardi,7,0,0,1.59,2,30/09/2025 - 00:46:04
+161,Carassai,Claudio Bolletta,1,0,0,0.23,2,30/09/2025 - 00:46:04
+162,Castel Di Lama,Matteo Ricci,1761,0,0,54.0,7,30/09/2025 - 00:46:04
+162,Castel Di Lama,Francesco Acquaroli,1450,0,0,44.46,7,30/09/2025 - 00:46:04
+162,Castel Di Lama,Francesco Gerardi,19,0,0,0.58,7,30/09/2025 - 00:46:04
+162,Castel Di Lama,Beatrice Marinelli,17,0,0,0.52,7,30/09/2025 - 00:46:04
+162,Castel Di Lama,Claudio Bolletta,14,0,0,0.43,7,30/09/2025 - 00:46:04
+163,Castignano,Francesco Acquaroli,724,0,0,64.87,3,30/09/2025 - 00:46:04
+163,Castignano,Matteo Ricci,375,0,0,33.6,3,30/09/2025 - 00:46:04
+163,Castignano,Claudio Bolletta,10,0,0,0.9,3,30/09/2025 - 00:46:04
+163,Castignano,Beatrice Marinelli,4,0,0,0.36,3,30/09/2025 - 00:46:04
+163,Castignano,Francesco Gerardi,3,0,0,0.27,3,30/09/2025 - 00:46:04
+164,Castorano,Matteo Ricci,555,0,0,58.3,3,30/09/2025 - 00:46:04
+164,Castorano,Francesco Acquaroli,384,0,0,40.34,3,30/09/2025 - 00:46:04
+164,Castorano,Francesco Gerardi,7,0,0,0.74,3,30/09/2025 - 00:46:04
+164,Castorano,Beatrice Marinelli,3,0,0,0.32,3,30/09/2025 - 00:46:04
+164,Castorano,Claudio Bolletta,3,0,0,0.32,3,30/09/2025 - 00:46:04
+165,Colli Del Tronto,Francesco Acquaroli,1079,0,0,61.38,3,30/09/2025 - 00:46:04
+165,Colli Del Tronto,Matteo Ricci,662,0,0,37.66,3,30/09/2025 - 00:46:04
+165,Colli Del Tronto,Francesco Gerardi,9,0,0,0.51,3,30/09/2025 - 00:46:04
+165,Colli Del Tronto,Claudio Bolletta,5,0,0,0.28,3,30/09/2025 - 00:46:04
+165,Colli Del Tronto,Beatrice Marinelli,3,0,0,0.17,3,30/09/2025 - 00:46:04
+166,Comunanza,Francesco Acquaroli,984,0,0,67.4,3,30/09/2025 - 00:46:04
+166,Comunanza,Matteo Ricci,456,0,0,31.23,3,30/09/2025 - 00:46:04
+166,Comunanza,Claudio Bolletta,8,0,0,0.55,3,30/09/2025 - 00:46:04
+166,Comunanza,Francesco Gerardi,7,0,0,0.48,3,30/09/2025 - 00:46:04
+166,Comunanza,Beatrice Marinelli,5,0,0,0.34,3,30/09/2025 - 00:46:04
+167,Cossignano,Matteo Ricci,209,0,0,50.85,1,30/09/2025 - 00:46:04
+167,Cossignano,Francesco Acquaroli,198,0,0,48.18,1,30/09/2025 - 00:46:04
+167,Cossignano,Beatrice Marinelli,2,0,0,0.49,1,30/09/2025 - 00:46:04
+167,Cossignano,Francesco Gerardi,1,0,0,0.24,1,30/09/2025 - 00:46:04
+167,Cossignano,Claudio Bolletta,1,0,0,0.24,1,30/09/2025 - 00:46:04
+168,Cupra Marittima,Francesco Acquaroli,1208,0,0,56.29,5,30/09/2025 - 00:46:04
+168,Cupra Marittima,Matteo Ricci,879,0,0,40.96,5,30/09/2025 - 00:46:04
+168,Cupra Marittima,Claudio Bolletta,45,0,0,2.1,5,30/09/2025 - 00:46:04
+168,Cupra Marittima,Beatrice Marinelli,10,0,0,0.47,5,30/09/2025 - 00:46:04
+168,Cupra Marittima,Francesco Gerardi,4,0,0,0.19,5,30/09/2025 - 00:46:04
+169,Folignano,Francesco Acquaroli,2085,0,0,51.94,8,30/09/2025 - 00:46:04
+169,Folignano,Matteo Ricci,1879,0,0,46.81,8,30/09/2025 - 00:46:04
+169,Folignano,Francesco Gerardi,22,0,0,0.55,8,30/09/2025 - 00:46:04
+169,Folignano,Claudio Bolletta,19,0,0,0.47,8,30/09/2025 - 00:46:04
+169,Folignano,Beatrice Marinelli,9,0,0,0.22,8,30/09/2025 - 00:46:04
+170,Force,Matteo Ricci,383,0,0,63.83,2,30/09/2025 - 00:46:04
+170,Force,Francesco Acquaroli,208,0,0,34.67,2,30/09/2025 - 00:46:04
+170,Force,Claudio Bolletta,4,0,0,0.67,2,30/09/2025 - 00:46:04
+170,Force,Francesco Gerardi,3,0,0,0.5,2,30/09/2025 - 00:46:04
+170,Force,Beatrice Marinelli,2,0,0,0.33,2,30/09/2025 - 00:46:04
+171,Grottammare,Matteo Ricci,3634,0,0,53.24,15,30/09/2025 - 00:46:04
+171,Grottammare,Francesco Acquaroli,3067,0,0,44.93,15,30/09/2025 - 00:46:04
+171,Grottammare,Claudio Bolletta,60,0,0,0.88,15,30/09/2025 - 00:46:04
+171,Grottammare,Beatrice Marinelli,43,0,0,0.63,15,30/09/2025 - 00:46:04
+171,Grottammare,Francesco Gerardi,22,0,0,0.32,15,30/09/2025 - 00:46:04
+172,Maltignano,Francesco Acquaroli,551,0,0,58.0,3,30/09/2025 - 00:46:04
+172,Maltignano,Matteo Ricci,393,0,0,41.37,3,30/09/2025 - 00:46:04
+172,Maltignano,Beatrice Marinelli,2,0,0,0.21,3,30/09/2025 - 00:46:04
+172,Maltignano,Francesco Gerardi,2,0,0,0.21,3,30/09/2025 - 00:46:04
+172,Maltignano,Claudio Bolletta,2,0,0,0.21,3,30/09/2025 - 00:46:04
+173,Massignano,Francesco Acquaroli,408,0,0,61.63,2,30/09/2025 - 00:46:04
+173,Massignano,Matteo Ricci,245,0,0,37.01,2,30/09/2025 - 00:46:04
+173,Massignano,Beatrice Marinelli,4,0,0,0.6,2,30/09/2025 - 00:46:04
+173,Massignano,Claudio Bolletta,4,0,0,0.6,2,30/09/2025 - 00:46:04
+173,Massignano,Francesco Gerardi,1,0,0,0.15,2,30/09/2025 - 00:46:04
+174,Monsampolo Del Tronto,Matteo Ricci,830,0,0,50.8,4,30/09/2025 - 00:46:04
+174,Monsampolo Del Tronto,Francesco Acquaroli,783,0,0,47.92,4,30/09/2025 - 00:46:04
+174,Monsampolo Del Tronto,Beatrice Marinelli,13,0,0,0.8,4,30/09/2025 - 00:46:04
+174,Monsampolo Del Tronto,Francesco Gerardi,6,0,0,0.37,4,30/09/2025 - 00:46:04
+174,Monsampolo Del Tronto,Claudio Bolletta,2,0,0,0.12,4,30/09/2025 - 00:46:04
+175,Montalto Delle Marche,Francesco Acquaroli,473,0,0,54.62,2,30/09/2025 - 00:46:04
+175,Montalto Delle Marche,Matteo Ricci,380,0,0,43.88,2,30/09/2025 - 00:46:04
+175,Montalto Delle Marche,Francesco Gerardi,5,0,0,0.58,2,30/09/2025 - 00:46:04
+175,Montalto Delle Marche,Beatrice Marinelli,4,0,0,0.46,2,30/09/2025 - 00:46:04
+175,Montalto Delle Marche,Claudio Bolletta,4,0,0,0.46,2,30/09/2025 - 00:46:04
+176,Montedinove,Francesco Acquaroli,120,0,0,51.72,1,30/09/2025 - 00:46:04
+176,Montedinove,Matteo Ricci,103,0,0,44.4,1,30/09/2025 - 00:46:04
+176,Montedinove,Beatrice Marinelli,7,0,0,3.02,1,30/09/2025 - 00:46:04
+176,Montedinove,Claudio Bolletta,2,0,0,0.86,1,30/09/2025 - 00:46:04
+176,Montedinove,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+177,Montefiore Dell'Aso,Francesco Acquaroli,464,0,0,54.52,3,30/09/2025 - 00:46:04
+177,Montefiore Dell'Aso,Matteo Ricci,346,0,0,40.66,3,30/09/2025 - 00:46:04
+177,Montefiore Dell'Aso,Beatrice Marinelli,33,0,0,3.88,3,30/09/2025 - 00:46:04
+177,Montefiore Dell'Aso,Francesco Gerardi,4,0,0,0.47,3,30/09/2025 - 00:46:04
+177,Montefiore Dell'Aso,Claudio Bolletta,4,0,0,0.47,3,30/09/2025 - 00:46:04
+178,Montegallo,Francesco Acquaroli,126,0,0,67.38,2,30/09/2025 - 00:46:04
+178,Montegallo,Matteo Ricci,58,0,0,31.02,2,30/09/2025 - 00:46:04
+178,Montegallo,Beatrice Marinelli,1,0,0,0.53,2,30/09/2025 - 00:46:04
+178,Montegallo,Francesco Gerardi,1,0,0,0.53,2,30/09/2025 - 00:46:04
+178,Montegallo,Claudio Bolletta,1,0,0,0.53,2,30/09/2025 - 00:46:04
+179,Montemonaco,Francesco Acquaroli,195,0,0,78.0,1,30/09/2025 - 00:46:04
+179,Montemonaco,Matteo Ricci,53,0,0,21.2,1,30/09/2025 - 00:46:04
+179,Montemonaco,Francesco Gerardi,1,0,0,0.4,1,30/09/2025 - 00:46:04
+179,Montemonaco,Claudio Bolletta,1,0,0,0.4,1,30/09/2025 - 00:46:04
+179,Montemonaco,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+180,Monteprandone,Matteo Ricci,2453,0,0,57.58,10,30/09/2025 - 00:46:04
+180,Monteprandone,Francesco Acquaroli,1722,0,0,40.42,10,30/09/2025 - 00:46:04
+180,Monteprandone,Beatrice Marinelli,34,0,0,0.8,10,30/09/2025 - 00:46:04
+180,Monteprandone,Francesco Gerardi,28,0,0,0.66,10,30/09/2025 - 00:46:04
+180,Monteprandone,Claudio Bolletta,23,0,0,0.54,10,30/09/2025 - 00:46:04
+181,Offida,Matteo Ricci,1303,0,0,55.68,6,30/09/2025 - 00:46:04
+181,Offida,Francesco Acquaroli,1004,0,0,42.91,6,30/09/2025 - 00:46:04
+181,Offida,Beatrice Marinelli,16,0,0,0.68,6,30/09/2025 - 00:46:04
+181,Offida,Claudio Bolletta,13,0,0,0.56,6,30/09/2025 - 00:46:04
+181,Offida,Francesco Gerardi,4,0,0,0.17,6,30/09/2025 - 00:46:04
+182,Palmiano,Francesco Acquaroli,71,0,0,72.45,1,30/09/2025 - 00:46:04
+182,Palmiano,Matteo Ricci,26,0,0,26.53,1,30/09/2025 - 00:46:04
+182,Palmiano,Francesco Gerardi,1,0,0,1.02,1,30/09/2025 - 00:46:04
+182,Palmiano,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+182,Palmiano,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+183,Ripatransone,Francesco Acquaroli,849,0,0,51.58,5,30/09/2025 - 00:46:04
+183,Ripatransone,Matteo Ricci,760,0,0,46.17,5,30/09/2025 - 00:46:04
+183,Ripatransone,Claudio Bolletta,15,0,0,0.91,5,30/09/2025 - 00:46:04
+183,Ripatransone,Francesco Gerardi,12,0,0,0.73,5,30/09/2025 - 00:46:04
+183,Ripatransone,Beatrice Marinelli,10,0,0,0.61,5,30/09/2025 - 00:46:04
+184,Roccafluvione,Francesco Acquaroli,611,0,0,67.59,3,30/09/2025 - 00:46:04
+184,Roccafluvione,Matteo Ricci,288,0,0,31.86,3,30/09/2025 - 00:46:04
+184,Roccafluvione,Claudio Bolletta,3,0,0,0.33,3,30/09/2025 - 00:46:04
+184,Roccafluvione,Beatrice Marinelli,1,0,0,0.11,3,30/09/2025 - 00:46:04
+184,Roccafluvione,Francesco Gerardi,1,0,0,0.11,3,30/09/2025 - 00:46:04
+185,Rotella,Matteo Ricci,210,0,0,50.97,1,30/09/2025 - 00:46:04
+185,Rotella,Francesco Acquaroli,199,0,0,48.3,1,30/09/2025 - 00:46:04
+185,Rotella,Claudio Bolletta,2,0,0,0.49,1,30/09/2025 - 00:46:04
+185,Rotella,Francesco Gerardi,1,0,0,0.24,1,30/09/2025 - 00:46:04
+185,Rotella,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+186,San Benedetto Del Tronto,Francesco Acquaroli,9822,0,0,50.7,43,30/09/2025 - 00:46:04
+186,San Benedetto Del Tronto,Matteo Ricci,9178,0,0,47.38,43,30/09/2025 - 00:46:04
+186,San Benedetto Del Tronto,Beatrice Marinelli,138,0,0,0.71,43,30/09/2025 - 00:46:04
+186,San Benedetto Del Tronto,Claudio Bolletta,137,0,0,0.71,43,30/09/2025 - 00:46:04
+186,San Benedetto Del Tronto,Francesco Gerardi,98,0,0,0.51,43,30/09/2025 - 00:46:04
+187,Spinetoli,Matteo Ricci,1484,0,0,55.02,6,30/09/2025 - 00:46:04
+187,Spinetoli,Francesco Acquaroli,1180,0,0,43.75,6,30/09/2025 - 00:46:04
+187,Spinetoli,Beatrice Marinelli,12,0,0,0.44,6,30/09/2025 - 00:46:04
+187,Spinetoli,Francesco Gerardi,11,0,0,0.41,6,30/09/2025 - 00:46:04
+187,Spinetoli,Claudio Bolletta,10,0,0,0.37,6,30/09/2025 - 00:46:04
+188,Venarotta,Francesco Acquaroli,498,0,0,61.63,3,30/09/2025 - 00:46:04
+188,Venarotta,Matteo Ricci,295,0,0,36.51,3,30/09/2025 - 00:46:04
+188,Venarotta,Francesco Gerardi,6,0,0,0.74,3,30/09/2025 - 00:46:04
+188,Venarotta,Beatrice Marinelli,5,0,0,0.62,3,30/09/2025 - 00:46:04
+188,Venarotta,Claudio Bolletta,4,0,0,0.5,3,30/09/2025 - 00:46:04
+189,Altidona,Francesco Acquaroli,827,0,0,56.57,2,30/09/2025 - 00:46:04
+189,Altidona,Matteo Ricci,588,0,0,40.22,2,30/09/2025 - 00:46:04
+189,Altidona,Claudio Bolletta,17,0,0,1.16,2,30/09/2025 - 00:46:04
+189,Altidona,Beatrice Marinelli,17,0,0,1.16,2,30/09/2025 - 00:46:04
+189,Altidona,Francesco Gerardi,13,0,0,0.89,2,30/09/2025 - 00:46:04
+190,Amandola,Francesco Acquaroli,1088,0,0,64.19,4,30/09/2025 - 00:46:04
+190,Amandola,Matteo Ricci,580,0,0,34.22,4,30/09/2025 - 00:46:04
+190,Amandola,Beatrice Marinelli,18,0,0,1.06,4,30/09/2025 - 00:46:04
+190,Amandola,Claudio Bolletta,7,0,0,0.41,4,30/09/2025 - 00:46:04
+190,Amandola,Francesco Gerardi,2,0,0,0.12,4,30/09/2025 - 00:46:04
+191,Belmonte Piceno,Francesco Acquaroli,165,0,0,66.0,1,30/09/2025 - 00:46:04
+191,Belmonte Piceno,Matteo Ricci,81,0,0,32.4,1,30/09/2025 - 00:46:04
+191,Belmonte Piceno,Francesco Gerardi,3,0,0,1.2,1,30/09/2025 - 00:46:04
+191,Belmonte Piceno,Beatrice Marinelli,1,0,0,0.4,1,30/09/2025 - 00:46:04
+191,Belmonte Piceno,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+192,Campofilone,Matteo Ricci,452,0,0,51.36,2,30/09/2025 - 00:46:04
+192,Campofilone,Francesco Acquaroli,388,0,0,44.09,2,30/09/2025 - 00:46:04
+192,Campofilone,Claudio Bolletta,24,0,0,2.73,2,30/09/2025 - 00:46:04
+192,Campofilone,Beatrice Marinelli,16,0,0,1.82,2,30/09/2025 - 00:46:04
+192,Campofilone,Francesco Gerardi,0,0,0,0.0,2,30/09/2025 - 00:46:04
+193,Falerone,Francesco Acquaroli,775,0,0,59.57,3,30/09/2025 - 00:46:04
+193,Falerone,Matteo Ricci,492,0,0,37.82,3,30/09/2025 - 00:46:04
+193,Falerone,Beatrice Marinelli,24,0,0,1.84,3,30/09/2025 - 00:46:04
+193,Falerone,Claudio Bolletta,8,0,0,0.61,3,30/09/2025 - 00:46:04
+193,Falerone,Francesco Gerardi,2,0,0,0.15,3,30/09/2025 - 00:46:04
+194,Fermo,Francesco Acquaroli,10454,0,0,60.79,37,30/09/2025 - 00:46:04
+194,Fermo,Matteo Ricci,6356,0,0,36.96,37,30/09/2025 - 00:46:04
+194,Fermo,Beatrice Marinelli,172,0,0,1.0,37,30/09/2025 - 00:46:04
+194,Fermo,Francesco Gerardi,124,0,0,0.72,37,30/09/2025 - 00:46:04
+194,Fermo,Claudio Bolletta,92,0,0,0.53,37,30/09/2025 - 00:46:04
+195,Francavilla D'Ete,Francesco Acquaroli,240,0,0,52.17,1,30/09/2025 - 00:46:04
+195,Francavilla D'Ete,Matteo Ricci,157,0,0,34.13,1,30/09/2025 - 00:46:04
+195,Francavilla D'Ete,Beatrice Marinelli,57,0,0,12.39,1,30/09/2025 - 00:46:04
+195,Francavilla D'Ete,Francesco Gerardi,4,0,0,0.87,1,30/09/2025 - 00:46:04
+195,Francavilla D'Ete,Claudio Bolletta,2,0,0,0.43,1,30/09/2025 - 00:46:04
+196,Grottazzolina,Francesco Acquaroli,931,0,0,64.52,3,30/09/2025 - 00:46:04
+196,Grottazzolina,Matteo Ricci,488,0,0,33.82,3,30/09/2025 - 00:46:04
+196,Grottazzolina,Beatrice Marinelli,12,0,0,0.83,3,30/09/2025 - 00:46:04
+196,Grottazzolina,Claudio Bolletta,9,0,0,0.62,3,30/09/2025 - 00:46:04
+196,Grottazzolina,Francesco Gerardi,3,0,0,0.21,3,30/09/2025 - 00:46:04
+197,Lapedona,Francesco Acquaroli,361,0,0,62.35,1,30/09/2025 - 00:46:04
+197,Lapedona,Matteo Ricci,204,0,0,35.23,1,30/09/2025 - 00:46:04
+197,Lapedona,Beatrice Marinelli,6,0,0,1.04,1,30/09/2025 - 00:46:04
+197,Lapedona,Francesco Gerardi,4,0,0,0.69,1,30/09/2025 - 00:46:04
+197,Lapedona,Claudio Bolletta,4,0,0,0.69,1,30/09/2025 - 00:46:04
+198,Magliano Di Tenna,Francesco Acquaroli,401,0,0,58.37,1,30/09/2025 - 00:46:04
+198,Magliano Di Tenna,Matteo Ricci,277,0,0,40.32,1,30/09/2025 - 00:46:04
+198,Magliano Di Tenna,Beatrice Marinelli,4,0,0,0.58,1,30/09/2025 - 00:46:04
+198,Magliano Di Tenna,Claudio Bolletta,3,0,0,0.44,1,30/09/2025 - 00:46:04
+198,Magliano Di Tenna,Francesco Gerardi,2,0,0,0.29,1,30/09/2025 - 00:46:04
+199,Massa Fermana,Matteo Ricci,204,0,0,54.55,1,30/09/2025 - 00:46:04
+199,Massa Fermana,Francesco Acquaroli,159,0,0,42.51,1,30/09/2025 - 00:46:04
+199,Massa Fermana,Beatrice Marinelli,6,0,0,1.6,1,30/09/2025 - 00:46:04
+199,Massa Fermana,Francesco Gerardi,3,0,0,0.8,1,30/09/2025 - 00:46:04
+199,Massa Fermana,Claudio Bolletta,2,0,0,0.53,1,30/09/2025 - 00:46:04
+200,Monsampietro Morico,Francesco Acquaroli,164,0,0,51.57,1,30/09/2025 - 00:46:04
+200,Monsampietro Morico,Matteo Ricci,144,0,0,45.28,1,30/09/2025 - 00:46:04
+200,Monsampietro Morico,Beatrice Marinelli,7,0,0,2.2,1,30/09/2025 - 00:46:04
+200,Monsampietro Morico,Francesco Gerardi,2,0,0,0.63,1,30/09/2025 - 00:46:04
+200,Monsampietro Morico,Claudio Bolletta,1,0,0,0.31,1,30/09/2025 - 00:46:04
+201,Montappone,Francesco Acquaroli,472,0,0,68.21,2,30/09/2025 - 00:46:04
+201,Montappone,Matteo Ricci,207,0,0,29.91,2,30/09/2025 - 00:46:04
+201,Montappone,Beatrice Marinelli,9,0,0,1.3,2,30/09/2025 - 00:46:04
+201,Montappone,Claudio Bolletta,3,0,0,0.43,2,30/09/2025 - 00:46:04
+201,Montappone,Francesco Gerardi,1,0,0,0.14,2,30/09/2025 - 00:46:04
+202,Montefalcone Appennino,Francesco Acquaroli,131,0,0,66.84,1,30/09/2025 - 00:46:04
+202,Montefalcone Appennino,Matteo Ricci,63,0,0,32.14,1,30/09/2025 - 00:46:04
+202,Montefalcone Appennino,Claudio Bolletta,2,0,0,1.02,1,30/09/2025 - 00:46:04
+202,Montefalcone Appennino,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+202,Montefalcone Appennino,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+203,Montefortino,Francesco Acquaroli,385,0,0,70.9,2,30/09/2025 - 00:46:04
+203,Montefortino,Matteo Ricci,152,0,0,27.99,2,30/09/2025 - 00:46:04
+203,Montefortino,Claudio Bolletta,3,0,0,0.55,2,30/09/2025 - 00:46:04
+203,Montefortino,Francesco Gerardi,2,0,0,0.37,2,30/09/2025 - 00:46:04
+203,Montefortino,Beatrice Marinelli,1,0,0,0.18,2,30/09/2025 - 00:46:04
+204,Monte Giberto,Francesco Acquaroli,199,0,0,59.4,1,30/09/2025 - 00:46:04
+204,Monte Giberto,Matteo Ricci,133,0,0,39.7,1,30/09/2025 - 00:46:04
+204,Monte Giberto,Beatrice Marinelli,2,0,0,0.6,1,30/09/2025 - 00:46:04
+204,Monte Giberto,Francesco Gerardi,1,0,0,0.3,1,30/09/2025 - 00:46:04
+204,Monte Giberto,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+205,Montegiorgio,Francesco Acquaroli,1950,0,0,64.48,7,30/09/2025 - 00:46:04
+205,Montegiorgio,Matteo Ricci,1021,0,0,33.76,7,30/09/2025 - 00:46:04
+205,Montegiorgio,Beatrice Marinelli,27,0,0,0.89,7,30/09/2025 - 00:46:04
+205,Montegiorgio,Claudio Bolletta,18,0,0,0.6,7,30/09/2025 - 00:46:04
+205,Montegiorgio,Francesco Gerardi,8,0,0,0.26,7,30/09/2025 - 00:46:04
+206,Montegranaro,Francesco Acquaroli,3025,0,0,62.31,13,30/09/2025 - 00:46:04
+206,Montegranaro,Matteo Ricci,1713,0,0,35.28,13,30/09/2025 - 00:46:04
+206,Montegranaro,Beatrice Marinelli,46,0,0,0.95,13,30/09/2025 - 00:46:04
+206,Montegranaro,Francesco Gerardi,38,0,0,0.78,13,30/09/2025 - 00:46:04
+206,Montegranaro,Claudio Bolletta,33,0,0,0.68,13,30/09/2025 - 00:46:04
+207,Monteleone Di Fermo,Francesco Acquaroli,135,0,0,70.68,1,30/09/2025 - 00:46:04
+207,Monteleone Di Fermo,Matteo Ricci,55,0,0,28.8,1,30/09/2025 - 00:46:04
+207,Monteleone Di Fermo,Beatrice Marinelli,1,0,0,0.52,1,30/09/2025 - 00:46:04
+207,Monteleone Di Fermo,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+207,Monteleone Di Fermo,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+208,Montelparo,Francesco Acquaroli,167,0,0,51.7,1,30/09/2025 - 00:46:04
+208,Montelparo,Matteo Ricci,150,0,0,46.44,1,30/09/2025 - 00:46:04
+208,Montelparo,Francesco Gerardi,3,0,0,0.93,1,30/09/2025 - 00:46:04
+208,Montelparo,Claudio Bolletta,2,0,0,0.62,1,30/09/2025 - 00:46:04
+208,Montelparo,Beatrice Marinelli,1,0,0,0.31,1,30/09/2025 - 00:46:04
+209,Monte Rinaldo,Francesco Acquaroli,76,0,0,51.7,1,30/09/2025 - 00:46:04
+209,Monte Rinaldo,Matteo Ricci,66,0,0,44.9,1,30/09/2025 - 00:46:04
+209,Monte Rinaldo,Francesco Gerardi,5,0,0,3.4,1,30/09/2025 - 00:46:04
+209,Monte Rinaldo,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+209,Monte Rinaldo,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+210,Monterubbiano,Francesco Acquaroli,577,0,0,66.47,3,30/09/2025 - 00:46:04
+210,Monterubbiano,Matteo Ricci,273,0,0,31.45,3,30/09/2025 - 00:46:04
+210,Monterubbiano,Francesco Gerardi,7,0,0,0.81,3,30/09/2025 - 00:46:04
+210,Monterubbiano,Beatrice Marinelli,6,0,0,0.69,3,30/09/2025 - 00:46:04
+210,Monterubbiano,Claudio Bolletta,5,0,0,0.58,3,30/09/2025 - 00:46:04
+211,Monte San Pietrangeli,Francesco Acquaroli,682,0,0,71.34,2,30/09/2025 - 00:46:04
+211,Monte San Pietrangeli,Matteo Ricci,241,0,0,25.21,2,30/09/2025 - 00:46:04
+211,Monte San Pietrangeli,Beatrice Marinelli,22,0,0,2.3,2,30/09/2025 - 00:46:04
+211,Monte San Pietrangeli,Claudio Bolletta,7,0,0,0.73,2,30/09/2025 - 00:46:04
+211,Monte San Pietrangeli,Francesco Gerardi,4,0,0,0.42,2,30/09/2025 - 00:46:04
+212,Monte Urano,Francesco Acquaroli,2092,0,0,62.0,6,30/09/2025 - 00:46:04
+212,Monte Urano,Matteo Ricci,1205,0,0,35.71,6,30/09/2025 - 00:46:04
+212,Monte Urano,Beatrice Marinelli,45,0,0,1.33,6,30/09/2025 - 00:46:04
+212,Monte Urano,Francesco Gerardi,18,0,0,0.53,6,30/09/2025 - 00:46:04
+212,Monte Urano,Claudio Bolletta,14,0,0,0.41,6,30/09/2025 - 00:46:04
+213,Monte Vidon Combatte,Matteo Ricci,121,0,0,57.08,1,30/09/2025 - 00:46:04
+213,Monte Vidon Combatte,Francesco Acquaroli,88,0,0,41.51,1,30/09/2025 - 00:46:04
+213,Monte Vidon Combatte,Francesco Gerardi,3,0,0,1.42,1,30/09/2025 - 00:46:04
+213,Monte Vidon Combatte,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+213,Monte Vidon Combatte,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+214,Monte Vidon Corrado,Francesco Acquaroli,159,0,0,51.96,1,30/09/2025 - 00:46:04
+214,Monte Vidon Corrado,Matteo Ricci,139,0,0,45.42,1,30/09/2025 - 00:46:04
+214,Monte Vidon Corrado,Beatrice Marinelli,6,0,0,1.96,1,30/09/2025 - 00:46:04
+214,Monte Vidon Corrado,Francesco Gerardi,2,0,0,0.65,1,30/09/2025 - 00:46:04
+214,Monte Vidon Corrado,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+215,Montottone,Francesco Acquaroli,292,0,0,65.18,1,30/09/2025 - 00:46:04
+215,Montottone,Matteo Ricci,146,0,0,32.59,1,30/09/2025 - 00:46:04
+215,Montottone,Beatrice Marinelli,6,0,0,1.34,1,30/09/2025 - 00:46:04
+215,Montottone,Claudio Bolletta,3,0,0,0.67,1,30/09/2025 - 00:46:04
+215,Montottone,Francesco Gerardi,1,0,0,0.22,1,30/09/2025 - 00:46:04
+216,Moresco,Francesco Acquaroli,175,0,0,70.0,1,30/09/2025 - 00:46:04
+216,Moresco,Matteo Ricci,72,0,0,28.8,1,30/09/2025 - 00:46:04
+216,Moresco,Claudio Bolletta,2,0,0,0.8,1,30/09/2025 - 00:46:04
+216,Moresco,Beatrice Marinelli,1,0,0,0.4,1,30/09/2025 - 00:46:04
+216,Moresco,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+217,Ortezzano,Francesco Acquaroli,199,0,0,54.37,1,30/09/2025 - 00:46:04
+217,Ortezzano,Matteo Ricci,159,0,0,43.44,1,30/09/2025 - 00:46:04
+217,Ortezzano,Beatrice Marinelli,6,0,0,1.64,1,30/09/2025 - 00:46:04
+217,Ortezzano,Claudio Bolletta,2,0,0,0.55,1,30/09/2025 - 00:46:04
+217,Ortezzano,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+218,Pedaso,Francesco Acquaroli,639,0,0,57.26,2,30/09/2025 - 00:46:04
+218,Pedaso,Matteo Ricci,463,0,0,41.49,2,30/09/2025 - 00:46:04
+218,Pedaso,Claudio Bolletta,5,0,0,0.45,2,30/09/2025 - 00:46:04
+218,Pedaso,Beatrice Marinelli,5,0,0,0.45,2,30/09/2025 - 00:46:04
+218,Pedaso,Francesco Gerardi,4,0,0,0.36,2,30/09/2025 - 00:46:04
+219,Petritoli,Francesco Acquaroli,679,0,0,64.54,3,30/09/2025 - 00:46:04
+219,Petritoli,Matteo Ricci,362,0,0,34.41,3,30/09/2025 - 00:46:04
+219,Petritoli,Claudio Bolletta,6,0,0,0.57,3,30/09/2025 - 00:46:04
+219,Petritoli,Francesco Gerardi,3,0,0,0.29,3,30/09/2025 - 00:46:04
+219,Petritoli,Beatrice Marinelli,2,0,0,0.19,3,30/09/2025 - 00:46:04
+220,Ponzano Di Fermo,Francesco Acquaroli,475,0,0,61.29,2,30/09/2025 - 00:46:04
+220,Ponzano Di Fermo,Matteo Ricci,277,0,0,35.74,2,30/09/2025 - 00:46:04
+220,Ponzano Di Fermo,Beatrice Marinelli,14,0,0,1.81,2,30/09/2025 - 00:46:04
+220,Ponzano Di Fermo,Claudio Bolletta,6,0,0,0.77,2,30/09/2025 - 00:46:04
+220,Ponzano Di Fermo,Francesco Gerardi,3,0,0,0.39,2,30/09/2025 - 00:46:04
+221,Porto San Giorgio,Francesco Acquaroli,4164,0,0,54.62,15,30/09/2025 - 00:46:04
+221,Porto San Giorgio,Matteo Ricci,3300,0,0,43.28,15,30/09/2025 - 00:46:04
+221,Porto San Giorgio,Beatrice Marinelli,66,0,0,0.87,15,30/09/2025 - 00:46:04
+221,Porto San Giorgio,Francesco Gerardi,50,0,0,0.66,15,30/09/2025 - 00:46:04
+221,Porto San Giorgio,Claudio Bolletta,44,0,0,0.58,15,30/09/2025 - 00:46:04
+222,Porto Sant'Elpidio,Francesco Acquaroli,5629,0,0,57.94,19,30/09/2025 - 00:46:04
+222,Porto Sant'Elpidio,Matteo Ricci,3790,0,0,39.01,19,30/09/2025 - 00:46:04
+222,Porto Sant'Elpidio,Beatrice Marinelli,138,0,0,1.42,19,30/09/2025 - 00:46:04
+222,Porto Sant'Elpidio,Claudio Bolletta,103,0,0,1.06,19,30/09/2025 - 00:46:04
+222,Porto Sant'Elpidio,Francesco Gerardi,56,0,0,0.58,19,30/09/2025 - 00:46:04
+223,Rapagnano,Francesco Acquaroli,736,0,0,71.73,2,30/09/2025 - 00:46:04
+223,Rapagnano,Matteo Ricci,269,0,0,26.22,2,30/09/2025 - 00:46:04
+223,Rapagnano,Francesco Gerardi,8,0,0,0.78,2,30/09/2025 - 00:46:04
+223,Rapagnano,Claudio Bolletta,7,0,0,0.68,2,30/09/2025 - 00:46:04
+223,Rapagnano,Beatrice Marinelli,6,0,0,0.58,2,30/09/2025 - 00:46:04
+224,Santa Vittoria In Matenano,Francesco Acquaroli,353,0,0,55.94,2,30/09/2025 - 00:46:04
+224,Santa Vittoria In Matenano,Matteo Ricci,269,0,0,42.63,2,30/09/2025 - 00:46:04
+224,Santa Vittoria In Matenano,Claudio Bolletta,5,0,0,0.79,2,30/09/2025 - 00:46:04
+224,Santa Vittoria In Matenano,Beatrice Marinelli,3,0,0,0.48,2,30/09/2025 - 00:46:04
+224,Santa Vittoria In Matenano,Francesco Gerardi,1,0,0,0.16,2,30/09/2025 - 00:46:04
+225,Sant'Elpidio A Mare,Francesco Acquaroli,4016,0,0,61.34,15,30/09/2025 - 00:46:04
+225,Sant'Elpidio A Mare,Matteo Ricci,2383,0,0,36.4,15,30/09/2025 - 00:46:04
+225,Sant'Elpidio A Mare,Beatrice Marinelli,69,0,0,1.05,15,30/09/2025 - 00:46:04
+225,Sant'Elpidio A Mare,Francesco Gerardi,42,0,0,0.64,15,30/09/2025 - 00:46:04
+225,Sant'Elpidio A Mare,Claudio Bolletta,37,0,0,0.57,15,30/09/2025 - 00:46:04
+226,Servigliano,Francesco Acquaroli,835,0,0,72.99,3,30/09/2025 - 00:46:04
+226,Servigliano,Matteo Ricci,299,0,0,26.14,3,30/09/2025 - 00:46:04
+226,Servigliano,Claudio Bolletta,6,0,0,0.52,3,30/09/2025 - 00:46:04
+226,Servigliano,Francesco Gerardi,2,0,0,0.17,3,30/09/2025 - 00:46:04
+226,Servigliano,Beatrice Marinelli,2,0,0,0.17,3,30/09/2025 - 00:46:04
+227,Smerillo,Francesco Acquaroli,141,0,0,71.57,1,30/09/2025 - 00:46:04
+227,Smerillo,Matteo Ricci,56,0,0,28.43,1,30/09/2025 - 00:46:04
+227,Smerillo,Francesco Gerardi,0,0,0,0.0,1,30/09/2025 - 00:46:04
+227,Smerillo,Claudio Bolletta,0,0,0,0.0,1,30/09/2025 - 00:46:04
+227,Smerillo,Beatrice Marinelli,0,0,0,0.0,1,30/09/2025 - 00:46:04
+228,Torre San Patrizio,Francesco Acquaroli,519,0,0,73.41,2,30/09/2025 - 00:46:04
+228,Torre San Patrizio,Matteo Ricci,168,0,0,23.76,2,30/09/2025 - 00:46:04
+228,Torre San Patrizio,Beatrice Marinelli,11,0,0,1.56,2,30/09/2025 - 00:46:04
+228,Torre San Patrizio,Francesco Gerardi,5,0,0,0.71,2,30/09/2025 - 00:46:04
+228,Torre San Patrizio,Claudio Bolletta,4,0,0,0.57,2,30/09/2025 - 00:46:04
