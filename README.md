@@ -52,12 +52,8 @@
 
 <h2>Prerequisiti</h2>
 
-<pre><code>Python 3.10+
-pip install -r requirements.txt
-</code></pre>
-
 <p style="margin-top:8px">
-Se non usi un <code>requirements.txt</code>, i pacchetti minimi:
+Per i pacchetti minimi:
 </p>
 
 <pre><code>pip install requests pandas beautifulsoup4
