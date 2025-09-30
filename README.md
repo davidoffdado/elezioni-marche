@@ -11,7 +11,9 @@
 <hr/>
 
 <h2>Risultati</h2>
+<p style="margin-top:8px">
 Partiamo dalla fine. Qua potete trovare la versione interattiva delle mappe create con i dati ottenuti e presenti nella repository:
+</p>
 <ul>
 <li> <a href="https://public.flourish.studio/visualisation/25370291/"> Risultati finali </a> </li>
 <li> <a href="https://public.flourish.studio/visualisation/25374444/"> Affluenza finale </a> </li>
