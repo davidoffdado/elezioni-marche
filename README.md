@@ -62,6 +62,9 @@ Partiamo dalla fine. Qua potete trovare la versione interattiva delle mappe crea
 <hr/>
 
 <h2>Prerequisiti</h2>
+<p style="margin-top:8px">
+<strong> Assicuratevi di aver installato Python!</strong>
+</p>
 
 <p style="margin-top:8px">
 Per i pacchetti minimi:
@@ -73,7 +76,14 @@ Per i pacchetti minimi:
 <hr/>
 
 <h2>Workflow</h2>
-
+<p style="margin-top:8px">
+Dal prompt dei comandi o da Anacoda Prompt posizionatevi all'interno della cartella in cui avete salvato i file e lanciate i comandi presenti di seguito.<br> 
+Se, ad esempio, la cartella si chiama <code> elezione-marche </code> e si trova nel <code> desktop </code>, allora dopo <code> (base)  C:\Users\nomeutende></code> sarà sufficiente digitare: <br>
+  <code> cd desktop </code> <br>
+  <code> cd elezioni-marche</code> <br>
+  <code> python scraper-province.py </code> <br>
+e proseguire con lo scraper comunale, se volete anche quei dati.
+</p>
 <ol>
   <li><strong>(OPZIONALE: se avete già scaricato <code>comuni_map.csv</code> e <code>comuni_map.json</code> non serve farlo) Costruzione del dizionario dei comuni</strong><br/>
     Partendo da <code>dizionario.txt</code> (HTML con le &lt;option&gt;), esegui:
