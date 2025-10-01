@@ -75,7 +75,7 @@ Per i pacchetti minimi:
 <h2>Workflow</h2>
 
 <ol>
-  <li><strong>(OPZIONALE: basta che scaricate <code>comuni_map.csv</code> e <code>comuni_map.json</code>) Costruzione del dizionario dei comuni</strong><br/>
+  <li><strong>(OPZIONALE: se avete già scaricato <code>comuni_map.csv</code> e <code>comuni_map.json</code> non serve farlo) Costruzione del dizionario dei comuni</strong><br/>
     Partendo da <code>dizionario.txt</code> (HTML con le &lt;option&gt;), esegui:
     <pre><code>python dizionario-id-comune.py</code></pre>
     Verranno creati <code>comuni_map.csv</code> e <code>comuni_map.json</code>.
