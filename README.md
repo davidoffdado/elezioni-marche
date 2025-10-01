@@ -78,7 +78,7 @@ Per i pacchetti minimi:
 <h2>Workflow</h2>
 <p style="margin-top:8px">
 Dal prompt dei comandi o da Anacoda Prompt posizionatevi all'interno della cartella in cui avete salvato i file e lanciate i comandi presenti di seguito.<br> 
-Se, ad esempio, la cartella si chiama <code> elezione-marche </code> e si trova nel <code> desktop </code>, allora dopo <code> (base)  C:\Users\nomeutende></code> sarà sufficiente digitare: <br>
+Se, ad esempio, la cartella si chiama <code> elezione-marche </code> e si trova nel <code> desktop </code>, allora dopo <code> (base) C:\Users\nomeutente></code> sarà sufficiente digitare: <br>
   <code> cd desktop </code> <br>
   <code> cd elezioni-marche</code> <br>
   <code> python scraper-province.py </code> <br>
